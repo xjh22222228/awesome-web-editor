@@ -9,7 +9,8 @@
   <p>开源WEB编辑器汇总</p>
   <div>
     <a href="https://github.com/xjh22222228/awesome-web-editor/">GitHub仓库</a>&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/xjh22222228/awesome-web-editor/issues">贡献</a>
+    <a href="https://github.com/xjh22222228/awesome-web-editor/issues">贡献</a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/xjh22222228/">My GitHub</a>
   </div>
 </div>
 </br></br></br>
@@ -71,6 +72,8 @@
 - [marked](https://github.com/markedjs/marked) ★ 16920 - A markdown parser and compiler. Built for speed.
 - [showdown](https://github.com/showdownjs/showdown) ★ 7187 - A bidirectional MD to HTML to MD converter written in Javascript.
 - [markdown-it](https://github.com/markdown-it/markdown-it) ★ 5718 - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed.
+- [markdown-js](https://github.com/evilstreak/markdown-js) ★ 6820 - A Markdown parser for javascript.
+
 
 
 
@@ -79,12 +82,15 @@
 
 
 ## 浏览器编辑器 / Browser editor
+- markdown
+  - [stackedit](https://github.com/benweet/stackedit) ★ 12305 - In-browser Markdown editor.
 - [CodeMirror](https://github.com/codemirror/CodeMirror) ★ 15195 - In-browser code editor.
 
 
 
 ## 其他 / Other
 - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) ★ 2973 - The minimal amount of CSS to replicate the GitHub Markdown style.
+- [markdown基本语法](https://github.com/younghz/Markdown) ★ 1050 - markdown基本语法教程
 
 
 
@@ -95,4 +101,6 @@
 ## License
 [MIT](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2018-present, xiejiahe
+只要注明原作者许可声明，您可以自由地复制、分享、和修改。
+
+Copyright (c) 2018-present, [xiejiahe](https://github.com/xjh22222228)
