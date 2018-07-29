@@ -31,6 +31,7 @@
   - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ★ 2581 - 基于 Quill、适用于 Vue 的富文本编辑器，支持服务端渲染和单页应用。
 - react
   - [draft-js](https://github.com/facebook/draft-js) ★ 13462 - A React framework for building text editors.
+  - [slate](https://github.com/ianstormtaylor/slate) ★ 8056 - A completely customizable framework for building rich text editors.
 - [wangEditor](https://github.com/wangfupeng1988/wangEditor) ★ 5267 - 国产轻量级web富文本框。
 - [ueditor](https://github.com/fex-team/ueditor) ★ 3778 - rich text 百度富文本编辑器。
 - [quill](https://github.com/quilljs/quill) ★ 19015 - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
@@ -59,6 +60,8 @@
 - [editor.md](https://github.com/pandao/editor.md) ★ 5846 - 可嵌入的 Markdown 在线编辑器（组件），基于 CodeMirror、jQuery 和 Marked 构建。
 - [editor](https://github.com/lepture/editor) ★ 2567 - A markdown editor.
 - [dillinger](https://github.com/joemccann/dillinger) ★ 6024 - The last Markdown editor, ever.
+- [tui.editor](https://github.com/nhnent/tui.editor) ★ 6928 - Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+
 
 
 
@@ -95,6 +98,17 @@
 
 
 ---
+
+
+## 贡献 / Contribution
+Thank you for your [contribution](https://github.com/xjh22222228/awesome-web-editor/issues), men.
+
+<a href="https://github.com/1c7/">
+  <img src="https://avatars1.githubusercontent.com/u/1804755?s=460&v=4" width="30px" height="30px" />
+</a>
+
+
+
 
 
 
