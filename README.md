@@ -41,7 +41,7 @@
 - [mercury](https://github.com/jejacks0n/mercury) ★ 2593 - Mercury Editor: The Rails HTML5 WYSIWYG editor.
 - [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg/) ★ 5561 - Tiny bootstrap-compatible WISWYG rich text editor
 - [ckeditor5](https://github.com/ckeditor/ckeditor5) ★ 1226 - Development environment for CKEditor 5 – the best browser-based rich text editor.
-
+- [summernote](https://github.com/summernote/summernote) ★ 7541 - Super simple WYSIWYG editor, Summernote is built on jQuery.
 
 
 
