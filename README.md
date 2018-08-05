@@ -19,7 +19,7 @@
 ## 更新说明 / Update description
 每个自然月更新一次开源WEB编辑器Star。
 
-不定时更新优秀WEB编辑器，可以Watch关注更新。
+不定时更新优秀WEB编辑器。
 
 
 
@@ -87,6 +87,7 @@
 ## 浏览器编辑器 / Browser editor
 - markdown
   - [stackedit](https://github.com/benweet/stackedit) ★ 12305 - In-browser Markdown editor.
+  - [markdown-editor](https://github.com/jbt/markdown-editor) ★ 2259 - Live (Github-flavored) Markdown Editor.
 - [CodeMirror](https://github.com/codemirror/CodeMirror) ★ 15195 - In-browser code editor.
 
 
