@@ -89,6 +89,8 @@
 - markdown
   - [stackedit](https://github.com/benweet/stackedit) ★ 12305 - In-browser Markdown editor.
   - [markdown-editor](https://github.com/jbt/markdown-editor) ★ 2259 - Live (Github-flavored) Markdown Editor.
+- react
+  - [react-ace](https://github.com/securingsincity/react-ace) ★ 1335 - React Ace Component, Support multiple languages and themes
 - [CodeMirror](https://github.com/codemirror/CodeMirror) ★ 15195 - In-browser code editor.
 
 
@@ -110,7 +112,7 @@ Thank you for your [contribution](https://github.com/xjh22222228/awesome-web-edi
 </a>
 
 
-
+---
 
 
 
