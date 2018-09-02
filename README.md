@@ -44,6 +44,7 @@
 - [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg/) ★ 5567 - Tiny bootstrap-compatible WISWYG rich text editor
 - [ckeditor5](https://github.com/ckeditor/ckeditor5) ★ 1309 - Development environment for CKEditor 5 – the best browser-based rich text editor.
 - [summernote](https://github.com/summernote/summernote) ★ 7676 - Super simple WYSIWYG editor, Summernote is built on jQuery.
+- [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) ★ 2620 - 基于HTML5的精美设计的WYSIWYG HTML编辑器, 依赖jQuery库
 
 
 
