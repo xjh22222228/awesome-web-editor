@@ -8,9 +8,9 @@
   </div>
   <p>开源WEB编辑器汇总</p>
   <div>
-    <a href="https://github.com/xjh22222228/awesome-web-editor/">GitHub仓库</a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/xjh22222228/awesome-web-editor/">GitHub</a>&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/xjh22222228/awesome-web-editor/issues">贡献</a>&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/xjh22222228/">My GitHub</a>
+    <a href="https://github.com/xjh22222228/">Author</a>
   </div>
 </div>
 </br></br></br>
@@ -33,18 +33,21 @@
 - react
   - [draft-js](https://github.com/facebook/draft-js) ★ 13727 - A React framework for building text editors.
   - [slate](https://github.com/ianstormtaylor/slate) ★ 8440 - A completely customizable framework for building rich text editors.
+- jQuery
+  - [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg/) ★ 5567 - Tiny bootstrap-compatible WISWYG rich text editor
+  - [jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) ★ 1702 - A modern, simple and elegant WYSIWYG rich text editor.
+  - [summernote](https://github.com/summernote/summernote) ★ 7676 - Super simple WYSIWYG editor, Summernote is built on jQuery.
+  - [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) ★ 2620 - 基于HTML5的精美设计的WYSIWYG HTML编辑器, 依赖jQuery库
 - [wangEditor](https://github.com/wangfupeng1988/wangEditor) ★ 5583 - 国产轻量级web富文本框。
-- [ueditor](https://github.com/fex-team/ueditor) ★ 3850 - rich text 百度富文本编辑器。
+- [ueditor](https://github.com/fex-team/ueditorch text 百度富文本编辑器。) ★ 3850 - ri
 - [quill](https://github.com/quilljs/quill) ★ 19463 - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [kindeditor](https://github.com/kindsoft/kindeditor) ★ 1288 - WYSIWYG HTML editor.
 - [simditor](https://github.com/mycolorway/simditor) ★ 3978 - An Easy and Fast WYSIWYG Editor.
 - [tinymce](https://github.com/tinymce/tinymce) ★ 5651 - The world's most popular JavaScript library for rich text editing. Available for React, Vue and Angular.
-- [jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) ★ 1702 - A modern, simple and elegant WYSIWYG rich text editor.
 - [mercury](https://github.com/jejacks0n/mercury) ★ 2603 - Mercury Editor: The Rails HTML5 WYSIWYG editor.
-- [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg/) ★ 5567 - Tiny bootstrap-compatible WISWYG rich text editor
 - [ckeditor5](https://github.com/ckeditor/ckeditor5) ★ 1309 - Development environment for CKEditor 5 – the best browser-based rich text editor.
-- [summernote](https://github.com/summernote/summernote) ★ 7676 - Super simple WYSIWYG editor, Summernote is built on jQuery.
-- [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) ★ 2620 - 基于HTML5的精美设计的WYSIWYG HTML编辑器, 依赖jQuery库
+- [Squire](https://github.com/neilj/Squire) ★ 3864 - Squire is an HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible. It is built for the present and the future, and as such does not support truly ancient browsers. It should work fine back to around Opera 12, Firefox 3.5, Safari 5, Chrome 9 and IE9.
+
 
 
 
@@ -58,8 +61,9 @@
 ## markdown编辑器 / Markdown editor
 - vue.js
   - [mavonEditor](https://github.com/hinesboy/mavonEditor) ★ 1562 -   A markdown editor based on Vue that supports a variety of personalized features.
+- jQuery
+  - [editor.md](https://github.com/pandao/editor.md) ★ 6067 - 可嵌入的 Markdown 在线编辑器（组件），基于 CodeMirror、jQuery 和 Marked 构建。
 - [simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) ★ 5521 -  A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
-- [editor.md](https://github.com/pandao/editor.md) ★ 6067 - 可嵌入的 Markdown 在线编辑器（组件），基于 CodeMirror、jQuery 和 Marked 构建。
 - [editor](https://github.com/lepture/editor) ★ 2577 - A markdown editor.
 - [dillinger](https://github.com/joemccann/dillinger) ★ 6069 - The last Markdown editor, ever.
 - [tui.editor](https://github.com/nhnent/tui.editor) ★ 7070 - Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
