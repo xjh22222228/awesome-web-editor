@@ -47,6 +47,7 @@
 - [mercury](https://github.com/jejacks0n/mercury) ★ 2603 - Mercury Editor: The Rails HTML5 WYSIWYG editor.
 - [ckeditor5](https://github.com/ckeditor/ckeditor5) ★ 1309 - Development environment for CKEditor 5 – the best browser-based rich text editor.
 - [Squire](https://github.com/neilj/Squire) ★ 3864 - Squire is an HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible. It is built for the present and the future, and as such does not support truly ancient browsers. It should work fine back to around Opera 12, Firefox 3.5, Safari 5, Chrome 9 and IE9.
+- [medium-editor](https://github.com/yabwe/medium-editor) ★ 12751 - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 
 
 
