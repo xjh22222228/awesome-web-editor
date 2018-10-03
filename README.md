@@ -83,7 +83,7 @@
 - [showdown](https://github.com/showdownjs/showdown) ★ 7372 - A bidirectional MD to HTML to MD converter written in Javascript.
 - [markdown-it](https://github.com/markdown-it/markdown-it) ★ 5944 - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed.
 - [markdown-js](https://github.com/evilstreak/markdown-js) ★ 6871 - A Markdown parser for javascript.
-
+- [turndown](https://github.com/domchristie/turndown) ★ 3479 - An HTML to Markdown converter written in JavaScript.
 
 
 
