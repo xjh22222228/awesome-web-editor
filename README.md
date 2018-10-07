@@ -98,7 +98,7 @@
 - react
   - [react-ace](https://github.com/securingsincity/react-ace) ★ 1424 - React Ace Component, Support multiple languages and themes
 - [CodeMirror](https://github.com/codemirror/CodeMirror) ★ 15743 - In-browser code editor.
-
+- [monaco-editor](https://github.com/Microsoft/monaco-editor) ★ 11332 - A browser based code editor.
 
 
 ## 其他 / Other
