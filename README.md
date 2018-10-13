@@ -30,6 +30,7 @@
 - vue.js
   - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ★ 2922 - 基于 Quill、适用于 Vue 的富文本编辑器，支持服务端渲染和单页应用。
   - [iview-editor](https://github.com/iview/iview-editor) ★ 90 - iView Editor 是基于 iView 的 markdown 编辑器，支持上传图片（可集成七牛等服务），支持全屏实时编辑预览。
+  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 1516 - A rich-text editor for Vue.js
 - react
   - [draft-js](https://github.com/facebook/draft-js) ★ 13986 - A React framework for building text editors.
   - [slate](https://github.com/ianstormtaylor/slate) ★ 9099 - A completely customizable framework for building rich text editors.
