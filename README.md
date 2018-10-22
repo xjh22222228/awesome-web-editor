@@ -66,6 +66,8 @@
   - [mavonEditor](https://github.com/hinesboy/mavonEditor) ★ 1680 -   A markdown editor based on Vue that supports a variety of personalized features.
 - jQuery
   - [editor.md](https://github.com/pandao/editor.md) ★ 6219 - 可嵌入的 Markdown 在线编辑器（组件），基于 CodeMirror、jQuery 和 Marked 构建。
+- React
+  - [react-markdown](https://github.com/rexxars/react-markdown) ★ 2717 - Render Markdown as React components.
 - [simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) ★ 5658 -  A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [editor](https://github.com/lepture/editor) ★ 2585 - A markdown editor.
 - [dillinger](https://github.com/joemccann/dillinger) ★ 6092 - The last Markdown editor, ever.
