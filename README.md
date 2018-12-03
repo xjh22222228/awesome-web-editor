@@ -30,6 +30,7 @@
 - react
   - [draft-js](https://github.com/facebook/draft-js) ★ 14417 - A React framework for building text editors.
   - [slate](https://github.com/ianstormtaylor/slate) ★ 12165 - A completely customizable framework for building rich text editors.
+  - [alloy-editor](https://github.com/liferay/alloy-editor/) ★ 951 - WYSIWYG editor based on CKEditor with completely rewritten UI.
 - jQuery
   - [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg/) ★ 5607 - Tiny bootstrap-compatible WISWYG rich text editor
   - [jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) ★ 1706 - A modern, simple and elegant WYSIWYG rich text editor.
