@@ -47,7 +47,7 @@
 - [Squire](https://github.com/neilj/Squire) ★ 3919 - Squire is an HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible. It is built for the present and the future, and as such does not support truly ancient browsers. It should work fine back to around Opera 12, Firefox 3.5, Safari 5, Chrome 9 and IE9.
 - [medium-editor](https://github.com/yabwe/medium-editor) ★ 13071 - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 - [prosemirror](https://github.com/ProseMirror/prosemirror) ★ 3657 - The ProseMirror WYSIWYM editor.
-
+- [pen](https://github.com/sofish/pen) ★ 4548 - enjoy live editing (+markdown).
 
 
 
@@ -68,8 +68,8 @@
 - [editor](https://github.com/lepture/editor) ★ 2606 - A markdown editor.
 - [dillinger](https://github.com/joemccann/dillinger) ★ 6196 - The last Markdown editor, ever.
 - [tui.editor](https://github.com/nhnent/tui.editor) ★ 7725 - Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
-
-
+- [pen](https://github.com/sofish/pen) ★ 4548 - enjoy live editing (+markdown).
+- [EpicEditor](https://github.com/OscarGodson/EpicEditor) ★ 4342 - An Embeddable JavaScript Markdown Editor.
 
 
 
@@ -99,6 +99,11 @@
   - [react-ace](https://github.com/securingsincity/react-ace) ★ 1572 - React Ace Component, Support multiple languages and themes
 - [CodeMirror](https://github.com/codemirror/CodeMirror) ★ 16501 - In-browser code editor.
 - [monaco-editor](https://github.com/Microsoft/monaco-editor) ★ 12631 - A browser based code editor.
+
+
+
+## JSON editor
+- [jsoneditor](https://github.com/josdejong/jsoneditor) ★ 5431 - A web-based tool to view, edit, format, and validate JSON
 
 
 ## 其他 / Other
