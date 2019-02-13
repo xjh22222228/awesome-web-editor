@@ -7,11 +7,6 @@
     <img src="https://raw.githubusercontent.com/xjh22222228/awesome-web-editor/master/media/logo.png" />
   </div>
   <p>开源WEB编辑器汇总</p>
-  <div>
-    <a href="https://github.com/xjh22222228/awesome-web-editor/">GitHub</a>&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/xjh22222228/awesome-web-editor/issues">贡献</a>&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/xjh22222228/">Author</a>
-  </div>
 </div>
 </br></br></br>
 
@@ -21,7 +16,7 @@
 ---
 
 
-## 富文本编辑器 / Rich text editor
+## Rich text editor
 - vue.js
   - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ★ 3388 - 基于 Quill、适用于 Vue 的富文本编辑器，支持服务端渲染和单页应用。
   - [iview-editor](https://github.com/iview/iview-editor) ★ 120 - iView Editor 是基于 iView 的 markdown 编辑器，支持上传图片（可集成七牛等服务），支持全屏实时编辑预览。
@@ -48,7 +43,7 @@
 - [medium-editor](https://github.com/yabwe/medium-editor) ★ 13071 - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 - [prosemirror](https://github.com/ProseMirror/prosemirror) ★ 3657 - The ProseMirror WYSIWYM editor.
 - [pen](https://github.com/sofish/pen) ★ 4548 - enjoy live editing (+markdown).
-
+- [wysihtml5](https://github.com/xing/wysihtml5) ★ 6646 - Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.
 
 
 
@@ -57,7 +52,7 @@
 ---
 
 
-## markdown编辑器 / Markdown editor
+## Markdown editor
 - vue.js
   - [mavonEditor](https://github.com/hinesboy/mavonEditor) ★ 1986 -   A markdown editor based on Vue that supports a variety of personalized features.
 - jQuery
@@ -78,7 +73,7 @@
 
 
 
-## markdown解析器 / Markdown parser
+## Markdown parser
 - [marked](https://github.com/markedjs/marked) ★ 18124 - A markdown parser and compiler. Built for speed.
 - [showdown](https://github.com/showdownjs/showdown) ★ 8068 - A bidirectional MD to HTML to MD converter written in Javascript.
 - [markdown-it](https://github.com/markdown-it/markdown-it) ★ 6531 - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed.
@@ -91,7 +86,7 @@
 
 
 
-## 浏览器编辑器 / Browser editor
+## Browser editor
 - markdown
   - [stackedit](https://github.com/benweet/stackedit) ★ 13331 - In-browser Markdown editor.
   - [markdown-editor](https://github.com/jbt/markdown-editor) ★ 2344 - Live (Github-flavored) Markdown Editor.
@@ -106,7 +101,9 @@
 - [jsoneditor](https://github.com/josdejong/jsoneditor) ★ 5431 - A web-based tool to view, edit, format, and validate JSON
 
 
-## 其他 / Other
+---
+
+## Other
 - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) ★ 3332 - The minimal amount of CSS to replicate the GitHub Markdown style.
 - [markdown基本语法](https://github.com/younghz/Markdown) ★ 1428 - markdown基本语法教程
 
@@ -115,7 +112,7 @@
 ---
 
 
-## 贡献 / Contribution
+## Contribution
 Thank you for your [contribution](https://github.com/xjh22222228/awesome-web-editor/issues), men.
 
 <a href="https://github.com/1c7/">
