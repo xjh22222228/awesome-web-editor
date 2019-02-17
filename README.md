@@ -6,7 +6,7 @@
   <div>
     <img src="https://raw.githubusercontent.com/xjh22222228/awesome-web-editor/master/media/logo.png" />
   </div>
-  <p>开源WEB编辑器汇总</p>
+  <p>Open source WEB editor summary</p>
 </div>
 </br></br></br>
 
@@ -31,6 +31,7 @@
   - [jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) ★ 1708 - A modern, simple and elegant WYSIWYG rich text editor.
   - [summernote](https://github.com/summernote/summernote) ★ 8037 - Super simple WYSIWYG editor, Summernote is built on jQuery.
   - [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) ★ 2971 - 基于HTML5的精美设计的WYSIWYG HTML编辑器, 依赖jQuery库
+  - [popline](https://github.com/kenshin54/popline) ★ 1041 - Popline is an HTML5 Rich-Text-Editor Toolbar.
 - [wangEditor](https://github.com/wangfupeng1988/wangEditor) ★ 6547 - 国产轻量级web富文本框。
 - [ueditor](https://github.com/fex-team/ueditor) ★ 4126 - rich text 百度富文本编辑器。
 - [quill](https://github.com/quilljs/quill) ★ 20980 - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
@@ -95,6 +96,9 @@
 - [CodeMirror](https://github.com/codemirror/CodeMirror) ★ 16501 - In-browser code editor.
 - [monaco-editor](https://github.com/Microsoft/monaco-editor) ★ 12631 - A browser based code editor.
 
+
+
+---
 
 
 ## JSON editor
