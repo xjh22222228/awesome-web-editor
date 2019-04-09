@@ -22,6 +22,7 @@
   - [iview-editor](https://github.com/iview/iview-editor) ★ 120 - iView Editor 是基于 iView 的 markdown 编辑器，支持上传图片（可集成七牛等服务），支持全屏实时编辑预览。
   - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 2585 - A rich-text editor for Vue.js
   - [neditor](https://github.com/notadd/neditor) ★ 1259 - 基于 ueditor的更现代化的富文本编辑器，支持HTTPS
+  - [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) ★ 24 - editor.js wrapper component for Vue.js
 - react
   - [draft-js](https://github.com/facebook/draft-js) ★ 14615 - A React framework for building text editors.
   - [slate](https://github.com/ianstormtaylor/slate) ★ 12724 - A completely customizable framework for building rich text editors.
@@ -45,7 +46,7 @@
 - [prosemirror](https://github.com/ProseMirror/prosemirror) ★ 3657 - The ProseMirror WYSIWYM editor.
 - [pen](https://github.com/sofish/pen) ★ 4548 - enjoy live editing (+markdown).
 - [wysihtml5](https://github.com/xing/wysihtml5) ★ 6646 - Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.
-
+- [Editor.js](https://codex.so/editor) ★ 5058 - A block-styled editor with clean JSON output
 
 
 
