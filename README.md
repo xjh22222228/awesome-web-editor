@@ -27,6 +27,7 @@
   - [draft-js](https://github.com/facebook/draft-js) ★ 15397 - A React framework for building text editors.
   - [slate](https://github.com/ianstormtaylor/slate) ★ 13792 - A completely customizable framework for building rich text editors.
   - [alloy-editor](https://github.com/liferay/alloy-editor/) ★ 988 - WYSIWYG editor based on CKEditor with completely rewritten UI.
+  - [dante2](https://github.com/michelson/dante2) ★ 594 - A complete rewrite of dante editor in draft-js.
 - jQuery
   - [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg/) ★ 5632 - Tiny bootstrap-compatible WISWYG rich text editor
   - [jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) ★ 1706 - A modern, simple and elegant WYSIWYG rich text editor.
