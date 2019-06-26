@@ -1,0 +1,36 @@
+{
+  "name": "awesome-web-editor",
+  "version": "1.0.0",
+  "description": "awesome-web-editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xjh22222228/awesome-web-editor.git"
+  },
+  "keywords": [
+    "editor",
+    "awesome-web-editor",
+    "vue-editor",
+    "jquery-editor",
+    "react-editor",
+    "angular-editor",
+    "markdown"
+  ],
+  "author": "xiejiahe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xjh22222228/awesome-web-editor/issues"
+  },
+  "homepage": "https://github.com/xjh22222228/awesome-web-editor#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "ora": "^3.4.0"
+  },
+  "engines": {
+    "node": ">= 8.0.0"
+  }
+}
