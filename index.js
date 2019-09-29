@@ -1,5 +1,5 @@
 /**
- * Star update once a month.
+ * Update star
  * @since 1.0.0
  * @author xiejiahe
  */
@@ -15,11 +15,10 @@ const spinner = ora({
 });
 spinner.start();
 
-
 function isUrl(url) {
   try {
     new URL(url);
-  } catch (error) {
+  } catch {
     return false;
   }
   return true;
@@ -82,9 +81,7 @@ function getStar(githubUrl) {
             try {
               const star = await getStar(url);
               contents[i] = contents[i].replace(regex1, `★ ${star}`);
-            } catch (err) {
-
-            }
+            } catch {}
           } else {
             console.log(`no url: ${url}`);
           }
