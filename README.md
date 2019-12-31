@@ -85,6 +85,7 @@
   - [markdown-editor](https://github.com/jbt/markdown-editor) ★ 2504 - Live (Github-flavored) Markdown Editor.
 - react
   - [react-ace](https://github.com/securingsincity/react-ace) ★ 2215 - React Ace Component, Support multiple languages and themes
+  - [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) ★ 1228 - Monaco Editor for React.
 - [CodeMirror](https://github.com/codemirror/CodeMirror) ★ 19181 - In-browser code editor.
 - [monaco-editor](https://github.com/Microsoft/monaco-editor) ★ 18290 - A browser based code editor.
 - [codesandbox-client](https://github.com/codesandbox/codesandbox-client) ★ 8764 - An online code editor tailored for web application development 🏖️
