@@ -14,6 +14,7 @@
   - [alloy-editor](https://github.com/liferay/alloy-editor/) ★ 988 - WYSIWYG editor based on CKEditor with completely rewritten UI.
   - [dante2](https://github.com/michelson/dante2) ★ 678 - A complete rewrite of dante editor in draft-js.
   - [react-quill](https://github.com/zenoamaro/react-quill) ★ 3100 - A Quill component for React.
+  - [braft-editor](https://github.com/margox/braft-editor) ★ 2800 - 美观易用的React富文本编辑器，基于draft-js开发.
 - jQuery
   - [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg/) ★ 5632 - Tiny bootstrap-compatible WISWYG rich text editor
   - [jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) ★ 1705 - A modern, simple and elegant WYSIWYG rich text editor.
