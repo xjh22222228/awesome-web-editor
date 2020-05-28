@@ -1,7 +1,8 @@
 /**
  * Update star
- * @since 1.0.0
+ * @since 1.1.0
  * @author xiejiahe
+ * @example node index.js README_zh-CN.md
  */
 
 const request = require('axios');
@@ -10,8 +11,10 @@ const fs = require('fs');
 const { URL } = require('url');
 const ora = require('ora');
 
+const FILE_NAME = process.argv.slice(2).pop() || 'README.md'
+
 const spinner = ora({
-  text: 'Processing...',
+  text: 'Processing...'
 });
 spinner.start();
 
@@ -24,11 +27,6 @@ function isUrl(url) {
   return true;
 }
 
-/**
- * Request every 10 seconds，
- * @param {String} githubUrl
- * @returns {Promise}
- */
 function getStar(githubUrl) {
   spinner.start(`Waiting for ${githubUrl} results...`);
   const parseUrl = new URL(githubUrl);
@@ -46,17 +44,16 @@ function getStar(githubUrl) {
         }
       })
       .catch(err => {
-        spinner.fail(`failed: ${githubUrl}`);
+        spinner.fail(`${err.response.status} failed: ${apiUrl}`);
         reject(err);
       });
-    }, 10000);
+    }, 1000);
   });
 }
 
 ;(async () => {
   let contents = [];
-  const filePath = './README.md';
-
+  const filePath = FILE_NAME;
   const regex1 = /(★\s{1}\d+)/;
   const regex2 = /\[.{1,}\]\(([^)]{1,})\)/;
 
@@ -70,7 +67,6 @@ function getStar(githubUrl) {
   });
   
   rl.on('close', async () => {
-    
     for (let i = 0; i < contents.length; i++) {
       const value = contents[i];
       if (regex1.test(value)) {
@@ -93,7 +89,4 @@ function getStar(githubUrl) {
     spinner.stop();
     console.log('Completed!');
   });
-  
 })();
-
-
