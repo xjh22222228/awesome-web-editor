@@ -59,7 +59,7 @@
 - [pen](https://github.com/sofish/pen) ★ 4668 - enjoy live editing (+markdown).
 - [EpicEditor](https://github.com/OscarGodson/EpicEditor) ★ 4317 - An Embeddable JavaScript Markdown Editor.
 - [stackedit.js](https://github.com/benweet/stackedit.js) ★ 602 - Add StackEdit to any website.
-
+- [markdown-nice](https://github.com/mdnice/markdown-nice) ★ 2000 - Markdown editor supporting theme design, make typography nice.
 
 
 ---
