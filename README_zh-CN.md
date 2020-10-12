@@ -23,7 +23,7 @@
   - [summernote](https://github.com/summernote/summernote) ★ 9607 - 超级简单的所见即所得编辑器，Summernote基于jQuery构建。
   - [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) ★ 4220 - 下一代JavaScript所见即所得HTML编辑器。
   - [popline](https://github.com/kenshin54/popline) ★ 1041 - Popline是HTML5 Rich-Text-Editor工具栏。
-- [wangEditor](https://github.com/wangfupeng1988/wangEditor) ★ 9997 - 轻量级的Web 富文本编辑器，易于配置和使用。 支持IE10+浏览器。
+- [wangEditor](https://github.com/wangeditor-team/wangEditor) ★ 9997 - 轻量级的Web 富文本编辑器，易于配置和使用。 支持IE10+浏览器。
 - [ueditor](https://github.com/fex-team/ueditor) ★ 5158 - 百度富文本编辑器.
 - [quill](https://github.com/quilljs/quill) ★ 27112 - Quill是一种现代的WYSIWYG编辑器，旨在实现兼容性和可扩展性。
 - [kindeditor](https://github.com/kindsoft/kindeditor) ★ 1645 - 所见即所得的HTML编辑器。

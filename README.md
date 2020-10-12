@@ -23,7 +23,7 @@
   - [summernote](https://github.com/summernote/summernote) ★ 9606 - Super simple WYSIWYG editor, Summernote is built on jQuery.
   - [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) ★ 4219 - The next generation Javascript WYSIWYG HTML Editor.
   - [popline](https://github.com/kenshin54/popline) ★ 1041 - Popline is an HTML5 Rich-Text-Editor Toolbar.
-- [wangEditor](https://github.com/wangfupeng1988/wangEditor) ★ 9995 - Lightweight web rich text editor, easy to configure and use. Support IE10 + browser.
+- [wangEditor](https://github.com/wangeditor-team/wangEditor) ★ 9995 - Lightweight web rich text editor, easy to configure and use. Support IE10 + browser.
 - [ueditor](https://github.com/fex-team/ueditor) ★ 5158 - Baidu rich text.
 - [quill](https://github.com/quilljs/quill) ★ 27107 - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [kindeditor](https://github.com/kindsoft/kindeditor) ★ 1644 - WYSIWYG HTML editor.
