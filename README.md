@@ -2,6 +2,17 @@
 [![HitCount](http://hits.dwyl.com/xjh22222228/awesome-web-editor.svg)](http://hits.dwyl.com/xjh22222228/awesome-web-editor) [README](README.md) | [中文文档](README_zh-CN.md)
 
 
+# Contents
+- [Rich text editor](#Rich-text-editor)
+- [Markdown editor](#Markdown-editor)
+- [Markdown parser](#Markdown-parser)
+- [Browser editor](#Browser-editor)
+- [JSON editor](#JSON-editor)
+- [Design editor](#Design-editor)
+- [SVG editor](#SVG-editor)
+- [Other](#Other)
+
+
 
 ## Rich text editor
 - vue.js
@@ -107,6 +118,7 @@
 - [micro-design-editor](https://github.com/xjh22222228/micro-design-editor) - Micro page editing component for react
 - [GGEditor](https://github.com/alibaba/GGEditor) ★ 2100 - A visual graph editor based on G6 and React.
 - [VvvebJs](https://github.com/givanz/VvvebJs) ★ 3236 - Drag and drop website builder javascript library.
+- [Excalidraw](https://github.com/excalidraw/excalidraw) ★ 12006 - Virtual whiteboard for sketching hand-drawn like diagrams.
 
 
 
@@ -119,7 +131,7 @@
 
 ## Other
 - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) ★ 4260 - The minimal amount of CSS to replicate the GitHub Markdown style.
-- [markdown基本语法](https://github.com/younghz/Markdown) ★ 1831 - markdown tutorials.
+- [Markdown Syntax](https://github.com/younghz/Markdown) ★ 1831 - markdown tutorials.
 
 
 
