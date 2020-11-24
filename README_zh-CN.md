@@ -60,7 +60,7 @@
 - vue.js
   - [mavonEditor](https://github.com/hinesboy/mavonEditor) ★ 4037 - 基于Vue的markdown编辑器，支持多种个性化功能。
 - React
-  - [react-markdown](https://github.com/rexxars/react-markdown) ★ 5621 - 将Markdown渲染为React组件。
+  - [react-markdown](https://github.com/remarkjs/react-markdown) ★ 6176 - 将Markdown渲染为React组件。
   - [mdx](https://github.com/mdx-js/mdx) ★ 9274 - MDX是一种可编辑的格式，可让您在markdown文档中无缝使用JSX。 您可以导入组件，例如交互式图表或通知，以及导出元数据。 这使得编写带有组件的长格式内容成为爆炸。
 - [simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) ★ 7898 - 简单，美观，可嵌入的JavaScript Markdown编辑器。 不论是初学者还是专家，都可轻松编辑。 具有内置的自动保存和拼写检查功能。
 - [editor](https://github.com/lepture/editor) ★ 2694 - Markdown 编辑器

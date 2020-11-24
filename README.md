@@ -61,7 +61,7 @@
 - vue.js
   - [mavonEditor](https://github.com/hinesboy/mavonEditor) ★ 4037 - A markdown editor based on Vue that supports a variety of personalized features.
 - React
-  - [react-markdown](https://github.com/rexxars/react-markdown) ★ 5619 - Render Markdown as React components.
+  - [react-markdown](https://github.com/remarkjs/react-markdown) ★ 6176 - Render Markdown as React components.
   - [mdx](https://github.com/mdx-js/mdx) ★ 9271 - MDX is an authorable format that lets you seamlessly use JSX in your markdown documents. You can import components, like interactive charts or notifications, and export metadata. This makes writing long-form content with components a blast.
 - [simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) ★ 7898 -  A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [editor](https://github.com/lepture/editor) ★ 2694 - A markdown editor.
