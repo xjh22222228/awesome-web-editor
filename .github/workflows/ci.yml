@@ -1,0 +1,37 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+  - cron: '0 21 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: checkout
+    - uses: actions/checkout@v2
+
+    - name: Install
+      uses: sergioramos/yarn-actions/install@v6
+      with:
+        frozen-lockfile: true
+    - name: Run
+      run: |
+        npm run update
+        npm run update2
+
+    - name: commit
+      run: |
+        git config --global user.email "xjh22222228@gmail.com"
+        git config --global user.name "xjh22222228"
+        git add .
+        git commit -m "docs: update stars"
+		
+    - name: Push
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.TOKEN }}

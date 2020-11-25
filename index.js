@@ -47,7 +47,7 @@ function getStar(githubUrl) {
         spinner.fail(`${err.response.status} failed: ${apiUrl}`);
         reject(err);
       });
-    }, 1000);
+    }, 20000);
   });
 }
 
