@@ -30,7 +30,6 @@ jobs:
         git config --global user.name "xjh22222228"
         git add .
         git commit -m "docs: update stars"
-		
     - name: Push
       uses: ad-m/github-push-action@master
       with:
