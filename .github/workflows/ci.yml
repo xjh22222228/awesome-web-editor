@@ -6,15 +6,12 @@ on:
       - master
   schedule:
   - cron: '0 21 * * *'
-
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
     - name: checkout
-    - uses: actions/checkout@v2
-
+      uses: actions/checkout@v2
     - name: Install
       uses: sergioramos/yarn-actions/install@v6
       with:
@@ -23,7 +20,6 @@ jobs:
       run: |
         npm run update
         npm run update2
-
     - name: commit
       run: |
         git config --global user.email "xjh22222228@gmail.com"
