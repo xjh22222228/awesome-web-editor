@@ -73,13 +73,11 @@ function getStar(githubUrl) {
         const isMatch = value.match(regex2);
         if (isMatch !== null) {
           const url = RegExp.$1;
-          if (isUrl(url)) {
+          if (isUrl(url) && url.startsWith('https://github.com')) {
             try {
               const star = await getStar(url);
               contents[i] = contents[i].replace(regex1, `★ ${star}`);
             } catch {}
-          } else {
-            console.log(`no url: ${url}`);
           }
         }
       }
