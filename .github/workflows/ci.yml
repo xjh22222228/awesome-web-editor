@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-  - cron: '0 21 * * *'
+  - cron: '0 23 * * 6'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -25,7 +25,7 @@ jobs:
         git config --global user.email "xjh22222228@gmail.com"
         git config --global user.name "xjh22222228"
         git add .
-        git commit -m "docs: update stars"
+        git commit -m "CI: update stars"
     - name: Push
       uses: ad-m/github-push-action@master
       with:
