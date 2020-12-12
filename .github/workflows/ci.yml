@@ -12,14 +12,14 @@ jobs:
     steps:
     - name: checkout
       uses: actions/checkout@v2
-    - name: Install
-      uses: sergioramos/yarn-actions/install@v6
-      with:
-        frozen-lockfile: true
-    - name: Run
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      python-version: '3.8.2'
+    - name: Install dependencies and Run
       run: |
-        npm run update
-        npm run update2
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        python star.py
     - name: commit
       run: |
         git config --global user.email "xjh22222228@gmail.com"
