@@ -6,12 +6,16 @@ Author: xiejiahe
 import sys
 import os
 import re
-import time
 from requests import get
 from urllib.parse import urlparse
 
 filename = sys.argv[1] if len(sys.argv) >= 2 else 'README.md'
 file_path = os.path.join(os.getcwd(), filename)
+access_token = os.environ.get('access_token')
+headers = {}
+
+if access_token:
+    headers['Authorization'] = 'token ' + access_token
 
 
 def get_star(repo_name):
@@ -19,7 +23,7 @@ def get_star(repo_name):
     print('Fetching {}'.format(req_url))
 
     try:
-        resp = get(req_url)
+        resp = get(req_url, headers=headers)
         if resp.status_code == 200:
             json = resp.json()
             star = json['stargazers_count']
@@ -51,7 +55,6 @@ def read_file():
                             continue
 
                         lines[idx] = re.sub(star_regex, '★ ' + str(star), line)
-                        time.sleep(3)
                 except:
                     pass
 
