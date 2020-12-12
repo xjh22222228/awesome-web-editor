@@ -95,7 +95,7 @@
   - [blackfriday](https://github.com/russross/blackfriday) ★ 4576 - Blackfriday: a markdown processor for Go.
   - [goldmark](https://github.com/yuin/goldmark) ★ 1337 - A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - Python
-  - [markdown](https://github.com/Python-Markdown/markdown) ★ 2345 - A Python implementation of John Gruber’s Markdown with Extension support.
+  - [markdown](https://github.com/Python-Markdown/markdown) ★ 2346 - A Python implementation of John Gruber’s Markdown with Extension support.
 - PHP
   - [php-markdown](https://github.com/michelf/php-markdown) ★ 3159 - Parser for Markdown and Markdown Extra derived from the original Markdown.pl.
 - Java
@@ -111,14 +111,14 @@
   - [stackedit](https://github.com/benweet/stackedit) ★ 17387 - In-browser Markdown editor.
   - [markdown-editor](https://github.com/jbt/markdown-editor) ★ 2627 - Live (Github-flavored) Markdown Editor.
 - react
-  - [react-ace](https://github.com/securingsincity/react-ace) ★ 2849 - React Ace Component, Support multiple languages and themes
-  - [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) ★ 1906 - Monaco Editor for React.
+  - [react-ace](https://github.com/securingsincity/react-ace) ★ 2850 - React Ace Component, Support multiple languages and themes
+  - [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) ★ 1907 - Monaco Editor for React.
 - SVG
-  - [svgedit](https://github.com/SVG-Edit/svgedit) ★ 3991 - Powerful SVG-Editor for your browser.
+  - [svgedit](https://github.com/SVG-Edit/svgedit) ★ 3992 - Powerful SVG-Editor for your browser.
   - [Method-Draw](https://github.com/methodofaction/Method-Draw) ★ 1749 - Method Draw, the SVG Editor for Method of Action.
-- [CodeMirror](https://github.com/codemirror/CodeMirror) ★ 21709 - In-browser code editor.
-- [monaco-editor](https://github.com/Microsoft/monaco-editor) ★ 22596 - A browser based code editor.
-- [codesandbox-client](https://github.com/codesandbox/codesandbox-client) ★ 10097 - An online code editor tailored for web application development 🏖️
+- [CodeMirror](https://github.com/codemirror/CodeMirror) ★ 21710 - In-browser code editor.
+- [monaco-editor](https://github.com/Microsoft/monaco-editor) ★ 22599 - A browser based code editor.
+- [codesandbox-client](https://github.com/codesandbox/codesandbox-client) ★ 10098 - An online code editor tailored for web application development 🏖️
 
 
 ---
@@ -134,13 +134,13 @@
 - React
   - [micro-design-editor](https://github.com/xjh22222228/micro-design-editor) - Micro page editing component for react
   - [GGEditor](https://github.com/alibaba/GGEditor) ★ 2859 - A visual graph editor based on G6 and React.
-  - [Excalidraw](https://github.com/excalidraw/excalidraw) ★ 13481 - Virtual whiteboard for sketching hand-drawn like diagrams.
+  - [Excalidraw](https://github.com/excalidraw/excalidraw) ★ 13485 - Virtual whiteboard for sketching hand-drawn like diagrams.
 
 
 
 ## SVG editor
 - Pure JavaScript
-  - [svgedit](https://github.com/SVG-Edit/svgedit) ★ 3991 - Powerful SVG-Editor for your browser.
+  - [svgedit](https://github.com/SVG-Edit/svgedit) ★ 3992 - Powerful SVG-Editor for your browser.
 
 
 
@@ -149,7 +149,7 @@
 - jQuery
   - [DataTables](https://datatables.net/) - Add advanced interaction controls to your HTML tables the free & easy way.
 - React
-  - [react-data-grid](https://github.com/adazzle/react-data-grid) ★ 4292 - Excel-like grid component built with React, with editors, keyboard navigation, copy & paste, and the like.
+  - [react-data-grid](https://github.com/adazzle/react-data-grid) ★ 4293 - Excel-like grid component built with React, with editors, keyboard navigation, copy & paste, and the like.
 
 
 
