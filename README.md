@@ -98,6 +98,7 @@
   - [markdown](https://github.com/Python-Markdown/markdown) ★ 2348 - A Python implementation of John Gruber’s Markdown with Extension support.
 - PHP
   - [php-markdown](https://github.com/michelf/php-markdown) ★ 3159 - Parser for Markdown and Markdown Extra derived from the original Markdown.pl.
+  - [parsedown](https://github.com/erusev/parsedown) ★ 13333 - Better Markdown Parser in PHP.
 - Java
   - [commonmark-java](https://github.com/commonmark/commonmark-java) ★ 1477 - Java library for parsing and rendering CommonMark (Markdown).
 
