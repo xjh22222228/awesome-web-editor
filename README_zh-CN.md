@@ -1,5 +1,10 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/awesome/awesome.png">
+  <p>
+    <a href="README.md">README.md</a>
+  </p>
+</div>
 
-[README](README.md)
 
 
 # 目录
@@ -96,6 +101,7 @@
   - [goldmark](https://github.com/yuin/goldmark) ★ 1337 - 用Go语言编写的markdown解析器。 易于扩展，符合标准（CommonMark），结构合理。
 - Python
   - [markdown](https://github.com/Python-Markdown/markdown) ★ 2345 - John Gruber的Markdown的Python实现，带有扩展支持。
+  - [python-markdown2](https://github.com/trentm/python-markdown2) ★ 2349 - markdown2：用Python快速，完整地实现Markdown。
 - PHP
   - [php-markdown](https://github.com/michelf/php-markdown) ★ 3159 - Markdown和Markdown Extra的解析器源自原始Markdown.pl。
   - [parsedown](https://github.com/erusev/parsedown) ★ 13333 - PHP中更好的Markdown解析器。

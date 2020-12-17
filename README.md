@@ -1,5 +1,10 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/awesome/awesome.png">
+  <p>
+    <a href="README_zh-CN.md">中文文档</a>
+  </p>
+</div>
 
-[中文文档](README_zh-CN.md)
 
 
 # Contents
@@ -96,6 +101,7 @@
   - [goldmark](https://github.com/yuin/goldmark) ★ 1341 - A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - Python
   - [markdown](https://github.com/Python-Markdown/markdown) ★ 2349 - A Python implementation of John Gruber’s Markdown with Extension support.
+  - [python-markdown2](https://github.com/trentm/python-markdown2) ★ 2349 - markdown2: A fast and complete implementation of Markdown in Python.
 - PHP
   - [php-markdown](https://github.com/michelf/php-markdown) ★ 3160 - Parser for Markdown and Markdown Extra derived from the original Markdown.pl.
   - [parsedown](https://github.com/erusev/parsedown) ★ 13347 - Better Markdown Parser in PHP.
