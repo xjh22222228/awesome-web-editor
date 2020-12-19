@@ -18,11 +18,12 @@ jobs:
         python-version: '3.8.2'
     - name: Install dependencies and Run
       run: |
-        access_token=${{ secrets.TOKEN }}
-        export access_token
+        github_access_token=${{ secrets.TOKEN }}
+        export github_access_token
         python -m pip install --upgrade pip
         pip install -r requirements.txt
         python star.py
+        python star.py README_zh-CN.md
     - name: commit
       run: |
         git config --global user.email "xjh22222228@gmail.com"
