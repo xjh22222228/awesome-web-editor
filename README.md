@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/awesome/awesome.png">
+  <img src="icon.svg" width="400">
   <p>
     <a href="README_zh-CN.md">中文文档</a>
   </p>
@@ -168,18 +168,6 @@
 
 
 
----
-
-
-## Contribution
-Thank you for your [contribution](https://github.com/xjh22222228/awesome-web-editor/issues), men.
-
-<a href="https://github.com/1c7/">
-  <img src="https://avatars1.githubusercontent.com/u/1804755?s=460&v=4" width="30px" height="30px" />
-</a>
-<a href="https://github.com/ChangJoo-Park/">
-  <img src="https://avatars1.githubusercontent.com/u/1451365?s=460&v=4" width="30px" height="30px" />
-</a>
 
 
 ---
