@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="icon.svg" width="400">
+  <img src="icon.svg" width="350">
   <p>
-    <a href="README_zh-CN.md">中文文档</a>
+    <a href="README_zh-CN.md">简体中文</a>
   </p>
 </div>
 
@@ -107,6 +107,8 @@
   - [php-markdown](https://github.com/michelf/php-markdown) ★ 3161 - Parser for Markdown and Markdown Extra derived from the original Markdown.pl.
 - Java
   - [commonmark-java](https://github.com/commonmark/commonmark-java) ★ 1483 - Java library for parsing and rendering CommonMark (Markdown).
+- C#
+  - [markdig](https://github.com/lunet-io/markdig) ★ 2333 - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
 
 
 ---

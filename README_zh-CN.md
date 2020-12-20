@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="icon.svg" width="400">
+  <img src="icon.svg" width="350">
   <p>
-    <a href="README.md">README.md</a>
+    <a href="README.md">English</a>
   </p>
 </div>
 
@@ -107,6 +107,8 @@
   - [php-markdown](https://github.com/michelf/php-markdown) ★ 3161 - Markdown和Markdown Extra的解析器源自原始Markdown.pl。
 - Java
   - [commonmark-java](https://github.com/commonmark/commonmark-java) ★ 1483 - 用于解析和呈现CommonMark（Markdown）。
+- C#
+  - [markdig](https://github.com/lunet-io/markdig) ★ 2333 - 用于.NET的快速，强大，兼容CommonMark的可扩展Markdown处理器。
 
 
 ---
