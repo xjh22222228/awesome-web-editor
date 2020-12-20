@@ -23,7 +23,7 @@
 ## Rich text editor
 - Pure JavaScript
   - [quill](https://github.com/quilljs/quill) ★ 28429 - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
-  - [medium-editor](https://github.com/yabwe/medium-editor) ★ 14909 - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
+  - [medium-editor](https://github.com/yabwe/medium-editor) ★ 14908 - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
   - [Editor.js](https://github.com/codex-team/editor.js) ★ 14057 - A block-styled editor with clean JSON output
   - [pell](https://github.com/jaredreich/pell) ★ 11419 - the simplest and smallest WYSIWYG text editor for web, with no dependencies.
   - [wangEditor](https://github.com/wangeditor-team/wangEditor) ★ 10838 - Lightweight web rich text editor, easy to configure and use. Support IE10 + browser.
@@ -38,13 +38,13 @@
   - [mercury](https://github.com/jejacks0n/mercury) ★ 2621 - Mercury Editor: The Rails HTML5 WYSIWYG editor.
   - [kindeditor](https://github.com/kindsoft/kindeditor) ★ 1701 - WYSIWYG HTML editor.
 - vue.js
-  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 8614 - A rich-text editor for Vue.js
+  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 8615 - A rich-text editor for Vue.js
   - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ★ 6186 - Quill editor component for Vue, support SPA and SSR.
   - [neditor](https://github.com/notadd/neditor) ★ 1850 - A more modern rich text editor based on ueditor, supporting HTTPS.
   - [iview-editor](https://github.com/iview/iview-editor) ★ 218 - iView Editor.
   - [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) ★ 175 - editor.js wrapper component for Vue.js
 - react
-  - [draft-js](https://github.com/facebook/draft-js) ★ 19416 - A React framework for building text editors.
+  - [draft-js](https://github.com/facebook/draft-js) ★ 19417 - A React framework for building text editors.
   - [slate](https://github.com/ianstormtaylor/slate) ★ 19304 - A completely customizable framework for building rich text editors.
   - [react-quill](https://github.com/zenoamaro/react-quill) ★ 4011 - A Quill component for React.
   - [braft-editor](https://github.com/margox/braft-editor) ★ 3729 - 美观易用的React富文本编辑器，基于draft-js开发.
@@ -78,7 +78,7 @@
 - vue.js
   - [mavonEditor](https://github.com/hinesboy/mavonEditor) ★ 4457 - A markdown editor based on Vue that supports a variety of personalized features.
 - React
-  - [mdx](https://github.com/mdx-js/mdx) ★ 10145 - MDX is an authorable format that lets you seamlessly use JSX in your markdown documents. You can import components, like interactive charts or notifications, and export metadata. This makes writing long-form content with components a blast.
+  - [mdx](https://github.com/mdx-js/mdx) ★ 10146 - MDX is an authorable format that lets you seamlessly use JSX in your markdown documents. You can import components, like interactive charts or notifications, and export metadata. This makes writing long-form content with components a blast.
   - [react-markdown](https://github.com/remarkjs/react-markdown) ★ 6277 - Render Markdown as React components.
 
 
@@ -98,7 +98,7 @@
   - [remark](https://github.com/remarkjs/remark) ★ 3604 - remark is a Markdown processor powered by plugins part of the unified collective.
 - Golang
   - [blackfriday](https://github.com/russross/blackfriday) ★ 4582 - Blackfriday: a markdown processor for Go.
-  - [goldmark](https://github.com/yuin/goldmark) ★ 1343 - A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
+  - [goldmark](https://github.com/yuin/goldmark) ★ 1344 - A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - Python
   - [markdown](https://github.com/Python-Markdown/markdown) ★ 2353 - A Python implementation of John Gruber’s Markdown with Extension support.
   - [python-markdown2](https://github.com/trentm/python-markdown2) ★ 2119 - markdown2: A fast and complete implementation of Markdown in Python.
@@ -106,9 +106,9 @@
   - [parsedown](https://github.com/erusev/parsedown) ★ 13358 - Better Markdown Parser in PHP.
   - [php-markdown](https://github.com/michelf/php-markdown) ★ 3161 - Parser for Markdown and Markdown Extra derived from the original Markdown.pl.
 - Java
-  - [commonmark-java](https://github.com/commonmark/commonmark-java) ★ 1483 - Java library for parsing and rendering CommonMark (Markdown).
+  - [commonmark-java](https://github.com/commonmark/commonmark-java) ★ 1485 - Java library for parsing and rendering CommonMark (Markdown).
 - C#
-  - [markdig](https://github.com/lunet-io/markdig) ★ 2333 - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
+  - [markdig](https://github.com/lunet-io/markdig) ★ 2291 - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
 
 
 ---
@@ -127,21 +127,21 @@
   - [Method-Draw](https://github.com/methodofaction/Method-Draw) ★ 1752 - Method Draw, the SVG Editor for Method of Action.
 - [CodeMirror](https://github.com/codemirror/CodeMirror) ★ 21763 - In-browser code editor.
 - [monaco-editor](https://github.com/Microsoft/monaco-editor) ★ 22694 - A browser based code editor.
-- [codesandbox-client](https://github.com/codesandbox/codesandbox-client) ★ 10124 - An online code editor tailored for web application development 🏖️
+- [codesandbox-client](https://github.com/codesandbox/codesandbox-client) ★ 10123 - An online code editor tailored for web application development 🏖️
 
 
 ---
 
 
 ## JSON editor
-- [jsoneditor](https://github.com/josdejong/jsoneditor) ★ 8034 - A web-based tool to view, edit, format, and validate JSON
+- [jsoneditor](https://github.com/josdejong/jsoneditor) ★ 8035 - A web-based tool to view, edit, format, and validate JSON
 
 
 ## Design editor
 - Pure JavaScript
   - [VvvebJs](https://github.com/givanz/VvvebJs) ★ 3684 - Drag and drop website builder javascript library.
 - React
-  - [Excalidraw](https://github.com/excalidraw/excalidraw) ★ 13712 - Virtual whiteboard for sketching hand-drawn like diagrams.
+  - [Excalidraw](https://github.com/excalidraw/excalidraw) ★ 13716 - Virtual whiteboard for sketching hand-drawn like diagrams.
   - [GGEditor](https://github.com/alibaba/GGEditor) ★ 2867 - A visual graph editor based on G6 and React.
   - [micro-design-editor](https://github.com/xjh22222228/micro-design-editor) - Micro page editing component for react
 
