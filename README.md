@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icon.svg" width="350">
+  <img src="icon.svg" width="300">
   <p>
     <a href="README_zh-CN.md">简体中文</a>
   </p>
@@ -11,6 +11,7 @@
 - [Rich text editor](#Rich-text-editor)
 - [Markdown editor](#Markdown-editor)
 - [Markdown parser](#Markdown-parser)
+- [Markdown style](#Markdown-style)
 - [Browser editor](#Browser-editor)
 - [JSON editor](#JSON-editor)
 - [Design editor](#Design-editor)
@@ -109,6 +110,20 @@
   - [commonmark-java](https://github.com/commonmark/commonmark-java) ★ 1485 - Java library for parsing and rendering CommonMark (Markdown).
 - C#
   - [markdig](https://github.com/lunet-io/markdig) ★ 2291 - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
+
+
+
+
+
+## Markdown style
+- [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) ★ 5555 - The minimal amount of CSS to replicate the GitHub Markdown style.
+
+
+
+
+
+
+
 
 
 ---
