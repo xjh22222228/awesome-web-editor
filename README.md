@@ -48,7 +48,7 @@
   - [draft-js](https://github.com/facebook/draft-js) ★ 19420 - A React framework for building text editors.
   - [slate](https://github.com/ianstormtaylor/slate) ★ 19306 - A completely customizable framework for building rich text editors.
   - [react-quill](https://github.com/zenoamaro/react-quill) ★ 4013 - A Quill component for React.
-  - [braft-editor](https://github.com/margox/braft-editor) ★ 3728 - 美观易用的React富文本编辑器，基于draft-js开发.
+  - [braft-editor](https://github.com/margox/braft-editor) ★ 3728 - Beautiful and easy-to-use React rich text editor, developed based on draft-js.
   - [alloy-editor](https://github.com/liferay/alloy-editor/) ★ 988 - WYSIWYG editor based on CKEditor with completely rewritten UI.
   - [dante2](https://github.com/michelson/dante2) ★ 852 - A complete rewrite of dante editor in draft-js.
 - jQuery
@@ -158,7 +158,8 @@
 - React
   - [Excalidraw](https://github.com/excalidraw/excalidraw) ★ 13726 - Virtual whiteboard for sketching hand-drawn like diagrams.
   - [GGEditor](https://github.com/alibaba/GGEditor) ★ 2867 - A visual graph editor based on G6 and React.
-  - [micro-design-editor](https://github.com/xjh22222228/micro-design-editor) - Micro page editing component for react
+  - [micro-design-editor](https://github.com/xjh22222228/micro-design-editor) - Micro page editing component for react.
+  - [react-email-editor](https://github.com/unlayer/react-email-editor) ★ 333 - Drag-n-Drop Email Editor Component for React.js.
 
 
 

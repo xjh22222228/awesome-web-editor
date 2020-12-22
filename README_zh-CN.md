@@ -158,7 +158,8 @@
 - React
   - [Excalidraw](https://github.com/excalidraw/excalidraw) ★ 13726 - 虚拟白板，用于绘制手绘的示意图。
   - [GGEditor](https://github.com/alibaba/GGEditor) ★ 2867 - 基于G6和React的可视化图形编辑器。
-  - [micro-design-editor](https://github.com/xjh22222228/micro-design-editor) - React 用于响应的微页面编辑组件
+  - [micro-design-editor](https://github.com/xjh22222228/micro-design-editor) - React 用于响应的微页面编辑组件。
+  - [react-email-editor](https://github.com/unlayer/react-email-editor) ★ 333 - 用于React.js的拖放式电子邮件编辑器组件。
 
 
 
