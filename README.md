@@ -38,6 +38,7 @@
   - [ckeditor5](https://github.com/ckeditor/ckeditor5) ★ 4169 - Development environment for CKEditor 5 – the best browser-based rich text editor.
   - [mercury](https://github.com/jejacks0n/mercury) ★ 2621 - Mercury Editor: The Rails HTML5 WYSIWYG editor.
   - [kindeditor](https://github.com/kindsoft/kindeditor) ★ 1701 - WYSIWYG HTML editor.
+  - [jodit](https://github.com/xdan/jodit) ★ 177 - Jodit - Best WYSIWYG Editor for You.
 - vue.js
   - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 8620 - A rich-text editor for Vue.js
   - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ★ 6191 - Quill editor component for Vue, support SPA and SSR.

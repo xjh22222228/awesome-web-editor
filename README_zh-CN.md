@@ -37,6 +37,7 @@
   - [ckeditor5](https://github.com/ckeditor/ckeditor5) ★ 4169 - CKEditor 5的开发环境–最好的基于浏览器的富文本编辑器。
   - [mercury](https://github.com/jejacks0n/mercury) ★ 2621 - Mercury编辑器：Rails HTML5 WYSIWYG编辑器。
   - [kindeditor](https://github.com/kindsoft/kindeditor) ★ 1701 - 所见即所得的HTML编辑器。
+  - [jodit](https://github.com/xdan/jodit) ★ 177 - Jodit - 最佳所见即所得编辑器。
 - vue.js
   - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 8620 - Vue.js的富文本编辑器
   - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ★ 6191 - Vue的Quill编辑器组件，支持SPA和SSR.
