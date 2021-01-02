@@ -1,7 +1,9 @@
 <div align="center">
   <img src="icon.svg" width="300">
   <p>
-    <a href="README_zh-CN.md">简体中文</a>
+    <a href="README_zh-CN.md">
+      <img src="https://img.shields.io/badge/lang-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red.svg?longCache=true&style=flat-square">
+    </a>
   </p>
 </div>
 
@@ -23,6 +25,7 @@
 
 ## Rich text editor
 - Pure JavaScript
+  - [mobiledoc-kit](https://github.com/bustle/mobiledoc-kit) ★ 333 - A toolkit for building WYSIWYG editors with Mobiledoc.
   - [quill](https://github.com/quilljs/quill) ★ 28485 - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
   - [medium-editor](https://github.com/yabwe/medium-editor) ★ 14918 - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
   - [Editor.js](https://github.com/codex-team/editor.js) ★ 14091 - A block-styled editor with clean JSON output

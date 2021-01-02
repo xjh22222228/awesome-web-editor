@@ -1,7 +1,9 @@
 <div align="center">
   <img src="icon.svg" width="300">
   <p>
-    <a href="README.md">English</a>
+    <a href="README.md">
+      <img src="https://img.shields.io/badge/lang-English-red.svg?longCache=true&style=flat-square">
+    </a>
   </p>
 </div>
 
@@ -22,6 +24,7 @@
 
 ## 富文本编辑器
 - 纯JavaScript
+  - [mobiledoc-kit](https://github.com/bustle/mobiledoc-kit) ★ 333 - 使用Mobiledoc构建所见即所得编辑器的工具包。
   - [quill](https://github.com/quilljs/quill) ★ 28485 - Quill是一种现代的WYSIWYG编辑器，旨在实现兼容性和可扩展性。
   - [medium-editor](https://github.com/yabwe/medium-editor) ★ 14918 - Medium.com所见即所得的编辑器克隆。 使用contenteditable API来实现富文本解决方案。
   - [Editor.js](https://github.com/codex-team/editor.js) ★ 14091 - 具有干净JSON输出的块样式编辑器
@@ -190,8 +193,6 @@
 
 
 ---
-
-
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
