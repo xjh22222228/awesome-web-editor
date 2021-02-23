@@ -101,6 +101,7 @@
   - [markdown-js](https://github.com/evilstreak/markdown-js) ★ 7490 - A Markdown parser for javascript.
   - [turndown](https://github.com/domchristie/turndown) ★ 5461 - An HTML to Markdown converter written in JavaScript.
   - [remark](https://github.com/remarkjs/remark) ★ 3802 - remark is a Markdown processor powered by plugins part of the unified collective.
+  - [texme](https://github.com/susam/texme) ★ 111 - Self-rendering Markdown + LaTeX documents.
 - Golang
   - [blackfriday](https://github.com/russross/blackfriday) ★ 4650 - Blackfriday: a markdown processor for Go.
   - [goldmark](https://github.com/yuin/goldmark) ★ 1438 - A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.

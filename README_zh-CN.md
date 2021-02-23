@@ -101,6 +101,7 @@
   - [markdown-js](https://github.com/evilstreak/markdown-js) ★ 7490 - Markdown的javascript解析器。
   - [turndown](https://github.com/domchristie/turndown) ★ 5461 - 用JavaScript编写的HTML至Markdown转换器。
   - [remark](https://github.com/remarkjs/remark) ★ 3802 - remark是Markdown处理器，由统一集合的插件提供支持。
+  - [texme](https://github.com/susam/texme) ★ 111 - 自我渲染Markdown + LaTeX文档。
 - Golang
   - [blackfriday](https://github.com/russross/blackfriday) ★ 4650 - Blackfriday: Go的Markdown处理器。
   - [goldmark](https://github.com/yuin/goldmark) ★ 1438 - 用Go语言编写的markdown解析器。 易于扩展，符合标准（CommonMark），结构合理。
