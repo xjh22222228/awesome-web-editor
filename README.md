@@ -54,7 +54,8 @@
   - [react-quill](https://github.com/zenoamaro/react-quill) ★ 4226 - A Quill component for React.
   - [braft-editor](https://github.com/margox/braft-editor) ★ 3879 - Beautiful and easy-to-use React rich text editor, developed based on draft-js.
   - [alloy-editor](https://github.com/liferay/alloy-editor/) ★ 988 - WYSIWYG editor based on CKEditor with completely rewritten UI.
-  - [dante2](https://github.com/michelson/dante2) ★ 891 - A complete rewrite of dante editor in draft-js.
+  - [dante2](https://github.com/michelson/dante2) ★ 890 - A complete rewrite of dante editor in draft-js.
+  - [bangle.dev](https://github.com/bangle-io/bangle.dev) * 56 - A collection of rich text editor tools to build your next Google doc clone.
 - jQuery
   - [summernote](https://github.com/summernote/summernote) ★ 10105 - Super simple WYSIWYG editor, Summernote is built on jQuery.
   - [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg/) ★ 5632 - Tiny bootstrap-compatible WISWYG rich text editor
