@@ -54,7 +54,7 @@
   - [braft-editor](https://github.com/margox/braft-editor) ★ 3879 - 美观易用的React富文本编辑器，基于draft-js开发.
   - [alloy-editor](https://github.com/liferay/alloy-editor/) ★ 988 - 基于CKEditor的WYSIWYG编辑器，具有完全重写的UI。
   - [dante2](https://github.com/michelson/dante2) ★ 891 - 在draft-js中完全重写了dante编辑器。
-  - [bangle.dev](https://github.com/bangle-io/bangle.dev) * 56 - 丰富的文本编辑器工具集合，可用于构建您的下一个Google文档克隆。
+  - [bangle.dev](https://github.com/bangle-io/bangle.dev) ★ 56 - 丰富的文本编辑器工具集合，可用于构建您的下一个Google文档克隆。
 - jQuery
   - [summernote](https://github.com/summernote/summernote) ★ 10105 - 超级简单的所见即所得编辑器，Summernote基于jQuery构建。
   - [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg/) ★ 5632 - 微小的Bootstrap WYSIWYG 编辑器
