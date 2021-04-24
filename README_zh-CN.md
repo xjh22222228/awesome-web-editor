@@ -70,7 +70,7 @@
 
 ## Markdown 编辑器
 - 纯JavaScript
-  - [tui.editor](https://github.com/nhnent/tui.editor) ★ 12816 - Markdown所见即所得编辑器。 GFM标准+图表和UML可扩展。
+  - [tui.editor](https://github.com/nhn/tui.editor/tree/master/apps/editor) ★ 12816 - Markdown所见即所得编辑器。 GFM标准+图表和UML可扩展。
   - [simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) ★ 8429 - 简单，美观，可嵌入的JavaScript Markdown编辑器。 不论是初学者还是专家，都可轻松编辑。 具有内置的自动保存和拼写检查功能。
   - [dillinger](https://github.com/joemccann/dillinger) ★ 7041 - 最后一个Markdown编辑器。
   - [pen](https://github.com/sofish/pen) ★ 4724 - 享受现场编辑 (+markdown).

@@ -71,7 +71,7 @@
 
 ## Markdown editor
 - Pure JavaScript
-  - [tui.editor](https://github.com/nhnent/tui.editor) ★ 12816 - Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+  - [tui.editor](https://github.com/nhn/tui.editor/tree/master/apps/editor) ★ 12816 - Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
   - [simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) ★ 8429 -  A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
   - [dillinger](https://github.com/joemccann/dillinger) ★ 7041 - The last Markdown editor, ever.
   - [pen](https://github.com/sofish/pen) ★ 4724 - enjoy live editing (+markdown).
