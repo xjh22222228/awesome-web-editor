@@ -149,6 +149,7 @@
 - [CodeMirror](https://github.com/codemirror/CodeMirror) ★ 22700 - 浏览器内代码编辑器。
 - [monaco-editor](https://github.com/Microsoft/monaco-editor) ★ 24549 - 基于浏览器的代码编辑器。
 - [codesandbox-client](https://github.com/codesandbox/codesandbox-client) ★ 10564 - 专为Web应用程序开发量身定制的在线代码编辑器 🏖️
+- [ace](https://github.com/ajaxorg/ace) ★ 10564 - Ace是用JavaScript编写的独立代码编辑器。我们的目标是创建一个基于浏览器的编辑器，以匹配并扩展现有本机编辑器（如TextMate，Vim或Eclipse）的功能，可用性和性能。它可以轻松地嵌入任何网页或JavaScript应用程序中。Ace是Cloud9 IDE的主要编辑器，也是Mozilla Skywriter（Bespin）项目的后继者。
 
 
 ---
