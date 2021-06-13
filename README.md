@@ -25,41 +25,41 @@
 
 ## Rich text editor
 - Pure JavaScript
-  - [quill](https://github.com/quilljs/quill) ★ 30104 - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
-  - [Editor.js](https://github.com/codex-team/editor.js) ★ 15637 - A block-styled editor with clean JSON output
-  - [medium-editor](https://github.com/yabwe/medium-editor) ★ 15191 - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
-  - [wangEditor](https://github.com/wangeditor-team/wangEditor) ★ 11899 - Lightweight web rich text editor, easy to configure and use. Support IE10 + browser.
-  - [pell](https://github.com/jaredreich/pell) ★ 11562 - the simplest and smallest WYSIWYG text editor for web, with no dependencies.
-  - [tinymce](https://github.com/tinymce/tinymce) ★ 9513 - The world's most popular JavaScript library for rich text editing. Available for React, Vue and Angular.
+  - [quill](https://github.com/quilljs/quill) ★ 30107 - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+  - [Editor.js](https://github.com/codex-team/editor.js) ★ 15641 - A block-styled editor with clean JSON output
+  - [medium-editor](https://github.com/yabwe/medium-editor) ★ 15193 - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
+  - [wangEditor](https://github.com/wangeditor-team/wangEditor) ★ 11900 - Lightweight web rich text editor, easy to configure and use. Support IE10 + browser.
+  - [pell](https://github.com/jaredreich/pell) ★ 11563 - the simplest and smallest WYSIWYG text editor for web, with no dependencies.
+  - [tinymce](https://github.com/tinymce/tinymce) ★ 9514 - The world's most popular JavaScript library for rich text editing. Available for React, Vue and Angular.
   - [wysihtml5](https://github.com/xing/wysihtml5) ★ 6575 - Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.
   - [ueditor](https://github.com/fex-team/ueditor) ★ 5806 - Baidu rich text.
-  - [prosemirror](https://github.com/ProseMirror/prosemirror) ★ 5223 - The ProseMirror WYSIWYM editor.
+  - [prosemirror](https://github.com/ProseMirror/prosemirror) ★ 5226 - The ProseMirror WYSIWYM editor.
   - [simditor](https://github.com/mycolorway/simditor) ★ 4879 - An Easy and Fast WYSIWYG Editor.
   - [pen](https://github.com/sofish/pen) ★ 4722 - enjoy live editing (+markdown).
-  - [ckeditor5](https://github.com/ckeditor/ckeditor5) ★ 4704 - Development environment for CKEditor 5 – the best browser-based rich text editor.
-  - [Squire](https://github.com/neilj/Squire) ★ 4283 - Squire is an HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible. It is built for the present and the future, and as such does not support truly ancient browsers. It should work fine back to around Opera 12, Firefox 3.5, Safari 5, Chrome 9 and IE9.
+  - [ckeditor5](https://github.com/ckeditor/ckeditor5) ★ 4708 - Development environment for CKEditor 5 – the best browser-based rich text editor.
+  - [Squire](https://github.com/neilj/Squire) ★ 4286 - Squire is an HTML5 rich text editor, which provides powerful cross-browser normalisation, whilst being supremely lightweight and flexible. It is built for the present and the future, and as such does not support truly ancient browsers. It should work fine back to around Opera 12, Firefox 3.5, Safari 5, Chrome 9 and IE9.
   - [mercury](https://github.com/jejacks0n/mercury) ★ 2627 - Mercury Editor: The Rails HTML5 WYSIWYG editor.
-  - [kindeditor](https://github.com/kindsoft/kindeditor) ★ 1739 - WYSIWYG HTML editor.
+  - [kindeditor](https://github.com/kindsoft/kindeditor) ★ 1738 - WYSIWYG HTML editor.
   - [mobiledoc-kit](https://github.com/bustle/mobiledoc-kit) ★ 1445 - A toolkit for building WYSIWYG editors with Mobiledoc.
   - [jodit](https://github.com/xdan/jodit) ★ 1008 - Jodit - Best WYSIWYG Editor for You.
 - vue.js
-  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 11210 - A rich-text editor for Vue.js
+  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 11218 - A rich-text editor for Vue.js
   - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ★ 6567 - Quill editor component for Vue, support SPA and SSR.
   - [neditor](https://github.com/notadd/neditor) ★ 1876 - A more modern rich text editor based on ueditor, supporting HTTPS.
   - [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) ★ 231 - editor.js wrapper component for Vue.js
   - [iview-editor](https://github.com/iview/iview-editor) ★ 225 - iView Editor.
 - react
-  - [slate](https://github.com/ianstormtaylor/slate) ★ 20885 - A completely customizable framework for building rich text editors.
-  - [draft-js](https://github.com/facebook/draft-js) ★ 20403 - A React framework for building text editors.
-  - [react-quill](https://github.com/zenoamaro/react-quill) ★ 4401 - A Quill component for React.
+  - [slate](https://github.com/ianstormtaylor/slate) ★ 20892 - A completely customizable framework for building rich text editors.
+  - [draft-js](https://github.com/facebook/draft-js) ★ 20407 - A React framework for building text editors.
+  - [react-quill](https://github.com/zenoamaro/react-quill) ★ 4403 - A Quill component for React.
   - [braft-editor](https://github.com/margox/braft-editor) ★ 4042 - Beautiful and easy-to-use React rich text editor, developed based on draft-js.
   - [alloy-editor](https://github.com/liferay/alloy-editor/) ★ 988 - WYSIWYG editor based on CKEditor with completely rewritten UI.
   - [dante2](https://github.com/michelson/dante2) ★ 913 - A complete rewrite of dante editor in draft-js.
   - [bangle.dev](https://github.com/bangle-io/bangle.dev) ★ 357 - A collection of rich text editor tools to build your next Google doc clone.
 - jQuery
-  - [summernote](https://github.com/summernote/summernote) ★ 10225 - Super simple WYSIWYG editor, Summernote is built on jQuery.
+  - [summernote](https://github.com/summernote/summernote) ★ 10227 - Super simple WYSIWYG editor, Summernote is built on jQuery.
   - [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg/) ★ 5632 - Tiny bootstrap-compatible WISWYG rich text editor
-  - [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) ★ 4637 - The next generation Javascript WYSIWYG HTML Editor.
+  - [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) ★ 4638 - The next generation Javascript WYSIWYG HTML Editor.
   - [jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) ★ 1705 - A modern, simple and elegant WYSIWYG rich text editor.
   - [popline](https://github.com/kenshin54/popline) ★ 1043 - Popline is an HTML5 Rich-Text-Editor Toolbar.
 
@@ -72,20 +72,20 @@
 ## Markdown editor
 - Pure JavaScript
   - [tui.editor](https://github.com/nhn/tui.editor/tree/master/apps/editor) ★ 12816 - Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
-  - [simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) ★ 8499 -  A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
-  - [dillinger](https://github.com/joemccann/dillinger) ★ 7089 - The last Markdown editor, ever.
+  - [simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) ★ 8501 -  A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
+  - [dillinger](https://github.com/joemccann/dillinger) ★ 7091 - The last Markdown editor, ever.
   - [pen](https://github.com/sofish/pen) ★ 4722 - enjoy live editing (+markdown).
   - [EpicEditor](https://github.com/OscarGodson/EpicEditor) ★ 4310 - An Embeddable JavaScript Markdown Editor.
   - [markdown-nice](https://github.com/mdnice/markdown-nice) ★ 3071 - Markdown editor supporting theme design, make typography nice.
   - [editor](https://github.com/lepture/editor) ★ 2720 - A markdown editor.
-  - [stackedit.js](https://github.com/benweet/stackedit.js) ★ 763 - Add StackEdit to any website.
+  - [stackedit.js](https://github.com/benweet/stackedit.js) ★ 764 - Add StackEdit to any website.
 - jQuery
-  - [editor.md](https://github.com/pandao/editor.md) ★ 11200 - The open source embeddable online markdown editor (component).
+  - [editor.md](https://github.com/pandao/editor.md) ★ 11202 - The open source embeddable online markdown editor (component).
 - vue.js
-  - [mavonEditor](https://github.com/hinesboy/mavonEditor) ★ 4863 - A markdown editor based on Vue that supports a variety of personalized features.
+  - [mavonEditor](https://github.com/hinesboy/mavonEditor) ★ 4867 - A markdown editor based on Vue that supports a variety of personalized features.
 - React
-  - [mdx](https://github.com/mdx-js/mdx) ★ 11043 - MDX is an authorable format that lets you seamlessly use JSX in your markdown documents. You can import components, like interactive charts or notifications, and export metadata. This makes writing long-form content with components a blast.
-  - [react-markdown](https://github.com/remarkjs/react-markdown) ★ 7179 - Render Markdown as React components.
+  - [mdx](https://github.com/mdx-js/mdx) ★ 11045 - MDX is an authorable format that lets you seamlessly use JSX in your markdown documents. You can import components, like interactive charts or notifications, and export metadata. This makes writing long-form content with components a blast.
+  - [react-markdown](https://github.com/remarkjs/react-markdown) ★ 7185 - Render Markdown as React components.
 
 
 
@@ -96,33 +96,33 @@
 
 ## Markdown parser
 - JavaScript
-  - [marked](https://github.com/markedjs/marked) ★ 25158 - A markdown parser and compiler. Built for speed.
-  - [showdown](https://github.com/showdownjs/showdown) ★ 11750 - A bidirectional MD to HTML to MD converter written in Javascript.
-  - [markdown-it](https://github.com/markdown-it/markdown-it) ★ 11690 - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed.
+  - [marked](https://github.com/markedjs/marked) ★ 25162 - A markdown parser and compiler. Built for speed.
+  - [showdown](https://github.com/showdownjs/showdown) ★ 11749 - A bidirectional MD to HTML to MD converter written in Javascript.
+  - [markdown-it](https://github.com/markdown-it/markdown-it) ★ 11694 - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed.
   - [markdown-js](https://github.com/evilstreak/markdown-js) ★ 7541 - A Markdown parser for javascript.
-  - [turndown](https://github.com/domchristie/turndown) ★ 5716 - An HTML to Markdown converter written in JavaScript.
-  - [remark](https://github.com/remarkjs/remark) ★ 4165 - remark is a Markdown processor powered by plugins part of the unified collective.
-  - [texme](https://github.com/susam/texme) ★ 1902 - Self-rendering Markdown + LaTeX documents.
+  - [turndown](https://github.com/domchristie/turndown) ★ 5717 - An HTML to Markdown converter written in JavaScript.
+  - [remark](https://github.com/remarkjs/remark) ★ 4168 - remark is a Markdown processor powered by plugins part of the unified collective.
+  - [texme](https://github.com/susam/texme) ★ 1903 - Self-rendering Markdown + LaTeX documents.
 - Golang
   - [blackfriday](https://github.com/russross/blackfriday) ★ 4729 - Blackfriday: a markdown processor for Go.
   - [goldmark](https://github.com/yuin/goldmark) ★ 1602 - A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - Python
-  - [markdown](https://github.com/Python-Markdown/markdown) ★ 2543 - A Python implementation of John Gruber’s Markdown with Extension support.
+  - [markdown](https://github.com/Python-Markdown/markdown) ★ 2545 - A Python implementation of John Gruber’s Markdown with Extension support.
   - [python-markdown2](https://github.com/trentm/python-markdown2) ★ 2182 - markdown2: A fast and complete implementation of Markdown in Python.
 - PHP
-  - [parsedown](https://github.com/erusev/parsedown) ★ 13703 - Better Markdown Parser in PHP.
+  - [parsedown](https://github.com/erusev/parsedown) ★ 13704 - Better Markdown Parser in PHP.
   - [php-markdown](https://github.com/michelf/php-markdown) ★ 3221 - Parser for Markdown and Markdown Extra derived from the original Markdown.pl.
 - Java
-  - [commonmark-java](https://github.com/commonmark/commonmark-java) ★ 1578 - Java library for parsing and rendering CommonMark (Markdown).
+  - [commonmark-java](https://github.com/commonmark/commonmark-java) ★ 1579 - Java library for parsing and rendering CommonMark (Markdown).
 - C#
-  - [markdig](https://github.com/lunet-io/markdig) ★ 2499 - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
+  - [markdig](https://github.com/lunet-io/markdig) ★ 2500 - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
 
 
 
 
 
 ## Markdown style
-- [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) ★ 5535 - The minimal amount of CSS to replicate the GitHub Markdown style.
+- [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) ★ 5538 - The minimal amount of CSS to replicate the GitHub Markdown style.
 
 
 
@@ -138,34 +138,34 @@
 
 ## Browser editor
 - markdown
-  - [stackedit](https://github.com/benweet/stackedit) ★ 18094 - In-browser Markdown editor.
+  - [stackedit](https://github.com/benweet/stackedit) ★ 18095 - In-browser Markdown editor.
   - [markdown-editor](https://github.com/jbt/markdown-editor) ★ 2674 - Live (Github-flavored) Markdown Editor.
 - react
   - [react-ace](https://github.com/securingsincity/react-ace) ★ 3109 - React Ace Component, Support multiple languages and themes
   - [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) ★ 2258 - Monaco Editor for React.
 - SVG
   - [svgedit](https://github.com/SVG-Edit/svgedit) ★ 4310 - Powerful SVG-Editor for your browser.
-  - [Method-Draw](https://github.com/methodofaction/Method-Draw) ★ 1936 - Method Draw, the SVG Editor for Method of Action.
-- [CodeMirror](https://github.com/codemirror/CodeMirror) ★ 22882 - In-browser code editor.
-- [monaco-editor](https://github.com/Microsoft/monaco-editor) ★ 24962 - A browser based code editor.
-- [codesandbox-client](https://github.com/codesandbox/codesandbox-client) ★ 10643 - An online code editor tailored for web application development 🏖️
-- [ace](https://github.com/ajaxorg/ace) ★ 23153 - Ace is a standalone code editor written in JavaScript. Our goal is to create a browser based editor that matches and extends the features, usability and performance of existing native editors such as TextMate, Vim or Eclipse. It can be easily embedded in any web page or JavaScript application. Ace is developed as the primary editor for Cloud9 IDE and the successor of the Mozilla Skywriter (Bespin) Project.
+  - [Method-Draw](https://github.com/methodofaction/Method-Draw) ★ 1937 - Method Draw, the SVG Editor for Method of Action.
+- [CodeMirror](https://github.com/codemirror/CodeMirror) ★ 22883 - In-browser code editor.
+- [monaco-editor](https://github.com/Microsoft/monaco-editor) ★ 24969 - A browser based code editor.
+- [codesandbox-client](https://github.com/codesandbox/codesandbox-client) ★ 10644 - An online code editor tailored for web application development 🏖️
+- [ace](https://github.com/ajaxorg/ace) ★ 23154 - Ace is a standalone code editor written in JavaScript. Our goal is to create a browser based editor that matches and extends the features, usability and performance of existing native editors such as TextMate, Vim or Eclipse. It can be easily embedded in any web page or JavaScript application. Ace is developed as the primary editor for Cloud9 IDE and the successor of the Mozilla Skywriter (Bespin) Project.
 
 
 ---
 
 
 ## JSON editor
-- [jsoneditor](https://github.com/josdejong/jsoneditor) ★ 8643 - A web-based tool to view, edit, format, and validate JSON
+- [jsoneditor](https://github.com/josdejong/jsoneditor) ★ 8645 - A web-based tool to view, edit, format, and validate JSON
 
 
 ## Design editor
 - Pure JavaScript
-  - [VvvebJs](https://github.com/givanz/VvvebJs) ★ 4247 - Drag and drop website builder javascript library.
+  - [VvvebJs](https://github.com/givanz/VvvebJs) ★ 4250 - Drag and drop website builder javascript library.
 - React
-  - [Excalidraw](https://github.com/excalidraw/excalidraw) ★ 21095 - Virtual whiteboard for sketching hand-drawn like diagrams.
+  - [Excalidraw](https://github.com/excalidraw/excalidraw) ★ 21111 - Virtual whiteboard for sketching hand-drawn like diagrams.
   - [GGEditor](https://github.com/alibaba/GGEditor) ★ 3073 - A visual graph editor based on G6 and React.
-  - [react-email-editor](https://github.com/unlayer/react-email-editor) ★ 2899 - Drag-n-Drop Email Editor Component for React.js.
+  - [react-email-editor](https://github.com/unlayer/react-email-editor) ★ 2900 - Drag-n-Drop Email Editor Component for React.js.
   - [imove](https://github.com/imgcook/imove) ★ 2778 - Move your mouse, generate code from flow chart.
   - [micro-design-editor](https://github.com/xjh22222228/micro-design-editor) - Micro page editing component for react.
 
@@ -182,14 +182,14 @@
 - jQuery
   - [DataTables](https://datatables.net/) - Add advanced interaction controls to your HTML tables the free & easy way.
 - React
-  - [react-data-grid](https://github.com/adazzle/react-data-grid) ★ 4618 - Excel-like grid component built with React, with editors, keyboard navigation, copy & paste, and the like.
+  - [react-data-grid](https://github.com/adazzle/react-data-grid) ★ 4622 - Excel-like grid component built with React, with editors, keyboard navigation, copy & paste, and the like.
 
 
 
 ---
 
 ## Other
-- [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) ★ 5535 - The minimal amount of CSS to replicate the GitHub Markdown style.
+- [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) ★ 5538 - The minimal amount of CSS to replicate the GitHub Markdown style.
 - [Markdown Syntax](https://github.com/younghz/Markdown) ★ 2560 - markdown tutorials.
 
 
