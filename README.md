@@ -42,6 +42,7 @@
   - [kindeditor](https://github.com/kindsoft/kindeditor) ★ 1743 - WYSIWYG HTML editor.
   - [mobiledoc-kit](https://github.com/bustle/mobiledoc-kit) ★ 1453 - A toolkit for building WYSIWYG editors with Mobiledoc.
   - [jodit](https://github.com/xdan/jodit) ★ 1033 - Jodit - Best WYSIWYG Editor for You.
+  - [SunEditor](https://github.com/JiHong88/SunEditor) ★ 687 - Pure javascript based WYSIWYG html editor, with no dependencies.
 - vue.js
   - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 11807 - A rich-text editor for Vue.js
   - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ★ 6624 - Quill editor component for Vue, support SPA and SSR.
