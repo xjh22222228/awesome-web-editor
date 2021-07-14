@@ -41,6 +41,7 @@
   - [kindeditor](https://github.com/kindsoft/kindeditor) ★ 1743 - 所见即所得的HTML编辑器。
   - [mobiledoc-kit](https://github.com/bustle/mobiledoc-kit) ★ 1453 - 使用Mobiledoc构建所见即所得编辑器的工具包。
   - [jodit](https://github.com/xdan/jodit) ★ 1033 - Jodit - 最佳所见即所得编辑器。
+  - [SunEditor](https://github.com/JiHong88/SunEditor) ★ 687 - 基于纯 javascript 的 WYSIWYG html 编辑器，没有依赖项。
 - vue.js
   - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 11807 - Vue.js的富文本编辑器
   - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ★ 6624 - Vue的Quill编辑器组件，支持SPA和SSR.
