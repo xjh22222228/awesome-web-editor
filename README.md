@@ -80,13 +80,16 @@
   - [markdown-nice](https://github.com/mdnice/markdown-nice) ★ 3297 - Markdown editor supporting theme design, make typography nice.
   - [editor](https://github.com/lepture/editor) ★ 2742 - A markdown editor.
   - [stackedit.js](https://github.com/benweet/stackedit.js) ★ 831 - Add StackEdit to any website.
+  - [milkdown](https://github.com/Saul-Mirone/milkdown) ★ 5000 - Plugin driven WYSIWYG markdown editor framework.
 - jQuery
   - [editor.md](https://github.com/pandao/editor.md) ★ 11766 - The open source embeddable online markdown editor (component).
 - vue.js
   - [mavonEditor](https://github.com/hinesboy/mavonEditor) ★ 5225 - A markdown editor based on Vue that supports a variety of personalized features.
+  - [milkdown](https://github.com/Saul-Mirone/milkdown) ★ 5000 - Plugin driven WYSIWYG markdown editor framework.
 - React
   - [mdx](https://github.com/mdx-js/mdx) ★ 11991 - MDX is an authorable format that lets you seamlessly use JSX in your markdown documents. You can import components, like interactive charts or notifications, and export metadata. This makes writing long-form content with components a blast.
   - [react-markdown](https://github.com/remarkjs/react-markdown) ★ 8081 - Render Markdown as React components.
+  - [milkdown](https://github.com/Saul-Mirone/milkdown) ★ 5000 - Plugin driven WYSIWYG markdown editor framework.
 
 
 

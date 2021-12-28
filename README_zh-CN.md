@@ -79,13 +79,16 @@
   - [markdown-nice](https://github.com/mdnice/markdown-nice) ★ 3297 - 支持主题设计的 Markdown 编辑器，让排版变 Nice
   - [editor](https://github.com/lepture/editor) ★ 2742 - Markdown 编辑器
   - [stackedit.js](https://github.com/benweet/stackedit.js) ★ 831 - 将StackEdit添加到任何网站。
+  - [milkdown](https://github.com/Saul-Mirone/milkdown) ★ 5000 - 插件驱动的所见即所得的Markdown编辑器框架。
 - jQuery
   - [editor.md](https://github.com/pandao/editor.md) ★ 11766 - 开源可嵌入在线Markdown编辑器（组件）。
 - vue.js
   - [mavonEditor](https://github.com/hinesboy/mavonEditor) ★ 5225 - 基于Vue的markdown编辑器，支持多种个性化功能。
+  - [milkdown](https://github.com/Saul-Mirone/milkdown) ★ 5000 - 插件驱动的所见即所得的Markdown编辑器框架。
 - React
   - [mdx](https://github.com/mdx-js/mdx) ★ 11991 - MDX是一种可编辑的格式，可让您在markdown文档中无缝使用JSX。 您可以导入组件，例如交互式图表或通知，以及导出元数据。 这使得编写带有组件的长格式内容成为爆炸。
   - [react-markdown](https://github.com/remarkjs/react-markdown) ★ 8081 - 将Markdown渲染为React组件。
+  - [milkdown](https://github.com/Saul-Mirone/milkdown) ★ 5000 - 插件驱动的所见即所得的Markdown编辑器框架。
 
 
 
