@@ -48,6 +48,7 @@
   - [neditor](https://github.com/notadd/neditor) ★ 1901 - 基于ueditor的更现代的RTF编辑器，支持HTTPS。
   - [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) ★ 260 - Vue.js的editor.js包装器组件
   - [iview-editor](https://github.com/iview/iview-editor) ★ 225 - iView Editor 是基于 iView 的 markdown 编辑器，支持上传图片（可集成七牛等服务），支持全屏实时编辑预览。
+  - [vue2-editor](https://github.com/davidroyer/vue2-editor) ★ 225 - 使用 Vue2 和 Quill 的文本编辑器。
 - react
   - [slate](https://github.com/ianstormtaylor/slate) ★ 23492 - 一个完全可定制的框架，用于构建富文本编辑器。
   - [draft-js](https://github.com/facebook/draft-js) ★ 21364 - 一个用于构建文本编辑器的React框架。

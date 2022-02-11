@@ -49,6 +49,7 @@
   - [neditor](https://github.com/notadd/neditor) ★ 1901 - A more modern rich text editor based on ueditor, supporting HTTPS.
   - [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) ★ 260 - editor.js wrapper component for Vue.js
   - [iview-editor](https://github.com/iview/iview-editor) ★ 225 - iView Editor.
+  - [vue2-editor](https://github.com/davidroyer/vue2-editor) ★ 225 - A text editor using Vue2 and Quill.
 - react
   - [slate](https://github.com/ianstormtaylor/slate) ★ 23492 - A completely customizable framework for building rich text editors.
   - [draft-js](https://github.com/facebook/draft-js) ★ 21364 - A React framework for building text editors.
