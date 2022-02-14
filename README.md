@@ -43,6 +43,7 @@
   - [mobiledoc-kit](https://github.com/bustle/mobiledoc-kit) ★ 1489 - A toolkit for building WYSIWYG editors with Mobiledoc.
   - [jodit](https://github.com/xdan/jodit) ★ 1156 - Jodit - Best WYSIWYG Editor for You.
   - [SunEditor](https://github.com/JiHong88/SunEditor) ★ 835 - Pure javascript based WYSIWYG html editor, with no dependencies.
+  - [am-editor](https://github.com/yanmao-cc/am-editor) ★ 196 - A rich text collaborative editor framework that can use React and Vue custom plug-ins.
 - vue.js
   - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 14272 - A rich-text editor for Vue.js
   - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ★ 6936 - Quill editor component for Vue, support SPA and SSR.

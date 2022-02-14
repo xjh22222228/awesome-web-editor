@@ -42,6 +42,7 @@
   - [mobiledoc-kit](https://github.com/bustle/mobiledoc-kit) ★ 1489 - 使用Mobiledoc构建所见即所得编辑器的工具包。
   - [jodit](https://github.com/xdan/jodit) ★ 1156 - Jodit - 最佳所见即所得编辑器。
   - [SunEditor](https://github.com/JiHong88/SunEditor) ★ 835 - 基于纯 javascript 的 WYSIWYG html 编辑器，没有依赖项。
+  - [am-editor](https://github.com/yanmao-cc/am-editor) ★ 196 - 一个富文本实时协同编辑器框架，可以使用React和Vue自定义插件。
 - vue.js
   - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 14272 - Vue.js的富文本编辑器
   - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ★ 6936 - Vue的Quill编辑器组件，支持SPA和SSR.
@@ -63,7 +64,6 @@
   - [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) ★ 4790 - 下一代JavaScript所见即所得HTML编辑器。
   - [jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) ★ 1694 - 现代，简单，优雅的所见即所得富文本编辑器。
   - [popline](https://github.com/kenshin54/popline) ★ 1046 - Popline是HTML5 Rich-Text-Editor工具栏。
-  - [am-editor](https://github.com/yanmao-cc/am-editor) ★ 196 - 一个富文本实时协同编辑器框架，可以使用React和Vue自定义插件。
 
 
 
