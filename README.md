@@ -64,6 +64,7 @@
   - [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) ★ 4790 - The next generation Javascript WYSIWYG HTML Editor.
   - [jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) ★ 1694 - A modern, simple and elegant WYSIWYG rich text editor.
   - [popline](https://github.com/kenshin54/popline) ★ 1046 - Popline is an HTML5 Rich-Text-Editor Toolbar.
+  - [am-editor](https://github.com/yanmao-cc/am-editor) ★ 196 - A rich text collaborative editor framework that can use React and Vue custom plug-ins.
 
 
 

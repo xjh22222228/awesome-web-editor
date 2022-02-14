@@ -63,7 +63,7 @@
   - [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) ★ 4790 - 下一代JavaScript所见即所得HTML编辑器。
   - [jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) ★ 1694 - 现代，简单，优雅的所见即所得富文本编辑器。
   - [popline](https://github.com/kenshin54/popline) ★ 1046 - Popline是HTML5 Rich-Text-Editor工具栏。
-
+  - [am-editor](https://github.com/yanmao-cc/am-editor) ★ 196 - 一个富文本实时协同编辑器框架，可以使用React和Vue自定义插件。
 
 
 
