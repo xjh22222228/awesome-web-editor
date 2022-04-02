@@ -43,7 +43,7 @@
   - [jodit](https://github.com/xdan/jodit) ★ 1185 - Jodit - 最佳所见即所得编辑器。
   - [SunEditor](https://github.com/JiHong88/SunEditor) ★ 869 - 基于纯 javascript 的 WYSIWYG html 编辑器，没有依赖项。
   - [am-editor](https://github.com/yanmao-cc/am-editor) ★ 361 - 一个富文本实时协同编辑器框架，可以使用React和Vue自定义插件。
-  - [Textbus](https://textbus.io/) ★ 604 - 一个组件化、高性能的富文本开发框架。
+  - [Textbus](https://textbus.io/) ★ 604 - 一个组件化、高性能的富文本开发框架，并且支持在线协作编辑。
 - vue.js
   - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 14641 - Vue.js的富文本编辑器
   - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ★ 6993 - Vue的Quill编辑器组件，支持SPA和SSR.
