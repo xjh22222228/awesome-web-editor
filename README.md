@@ -44,6 +44,7 @@
   - [jodit](https://github.com/xdan/jodit) ★ 1185 - Jodit - Best WYSIWYG Editor for You.
   - [SunEditor](https://github.com/JiHong88/SunEditor) ★ 869 - Pure javascript based WYSIWYG html editor, with no dependencies.
   - [am-editor](https://github.com/yanmao-cc/am-editor) ★ 361 - A rich text collaborative editor framework that can use React and Vue custom plug-ins.
+  - [Textbus](https://github.com/textbus/textbus) ★ 604 - A component-based and high-performance rich text develop framework that Support online collaborative editing.
 - vue.js
   - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 14641 - A rich-text editor for Vue.js
   - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ★ 6993 - Quill editor component for Vue, support SPA and SSR.
