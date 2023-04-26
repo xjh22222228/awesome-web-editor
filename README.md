@@ -28,6 +28,7 @@
   - [quill](https://github.com/quilljs/quill) ★ 35127 - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
   - [Editor.js](https://github.com/codex-team/editor.js) ★ 22567 - A block-styled editor with clean JSON output
   - [medium-editor](https://github.com/yabwe/medium-editor) ★ 15790 - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
+  - [lexical](https://github.com/facebook/lexical) ★ 14139 - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
   - [wangEditor](https://github.com/wangeditor-team/wangEditor) ★ 15428 - Lightweight web rich text editor, easy to configure and use. Support IE10 + browser.
   - [tinymce](https://github.com/tinymce/tinymce) ★ 12874 - The world's most popular JavaScript library for rich text editing. Available for React, Vue and Angular.
   - [pell](https://github.com/jaredreich/pell) ★ 11824 - the simplest and smallest WYSIWYG text editor for web, with no dependencies.
