@@ -27,8 +27,8 @@
   - [quill](https://github.com/quilljs/quill) ★ 35134 - Quill是一种现代的WYSIWYG编辑器，旨在实现兼容性和可扩展性。
   - [Editor.js](https://github.com/codex-team/editor.js) ★ 22580 - 具有干净JSON输出的块样式编辑器
   - [medium-editor](https://github.com/yabwe/medium-editor) ★ 15791 - Medium.com所见即所得的编辑器克隆。 使用contenteditable API来实现富文本解决方案。
-  - [lexical](https://github.com/facebook/lexical) ★ 14139 - Lexical是一个可扩展的文本编辑器框架，提供了出色的可靠性、可访问性和性能。
   - [wangEditor](https://github.com/wangeditor-team/wangEditor) ★ 15436 - 轻量级的Web 富文本编辑器，易于配置和使用。 支持IE10+浏览器。
+  - [lexical](https://github.com/facebook/lexical) ★ 14140 - Lexical是一个可扩展的文本编辑器框架，提供了出色的可靠性、可访问性和性能。
   - [tinymce](https://github.com/tinymce/tinymce) ★ 12878 - 世界上最受欢迎的JavaScript库，用于富文本编辑。 适用于React，Vue和Angular。
   - [pell](https://github.com/jaredreich/pell) ★ 11825 - 用于网络的最简单，最小的WYSIWYG文本编辑器，没有依赖项。
   - [ckeditor5](https://github.com/ckeditor/ckeditor5) ★ 7104 - CKEditor 5的开发环境–最好的基于浏览器的富文本编辑器。
@@ -170,7 +170,7 @@
 - 纯JavaScript
   - [VvvebJs](https://github.com/givanz/VvvebJs) ★ 5501 - 拖放网站构建器javascript库。
 - React
-  - [Excalidraw](https://github.com/excalidraw/excalidraw) ★ 47073 - 虚拟白板，用于绘制手绘的示意图。
+  - [Excalidraw](https://github.com/excalidraw/excalidraw) ★ 47074 - 虚拟白板，用于绘制手绘的示意图。
   - [react-email-editor](https://github.com/unlayer/react-email-editor) ★ 3827 - 用于React.js的拖放式电子邮件编辑器组件。
   - [imove](https://github.com/imgcook/imove) ★ 3712 - iMove 是一个逻辑可复用的，面向函数的，流程可视化的 JavaScript 工具库。
   - [GGEditor](https://github.com/alibaba/GGEditor) ★ 3360 - 基于G6和React的可视化图形编辑器。

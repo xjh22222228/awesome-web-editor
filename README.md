@@ -171,7 +171,7 @@
 - Pure JavaScript
   - [VvvebJs](https://github.com/givanz/VvvebJs) ★ 5501 - Drag and drop website builder javascript library.
 - React
-  - [Excalidraw](https://github.com/excalidraw/excalidraw) ★ 47073 - Virtual whiteboard for sketching hand-drawn like diagrams.
+  - [Excalidraw](https://github.com/excalidraw/excalidraw) ★ 47074 - Virtual whiteboard for sketching hand-drawn like diagrams.
   - [react-email-editor](https://github.com/unlayer/react-email-editor) ★ 3827 - Drag-n-Drop Email Editor Component for React.js.
   - [imove](https://github.com/imgcook/imove) ★ 3712 - Move your mouse, generate code from flow chart.
   - [GGEditor](https://github.com/alibaba/GGEditor) ★ 3360 - A visual graph editor based on G6 and React.
