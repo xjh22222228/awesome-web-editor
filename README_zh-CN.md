@@ -27,6 +27,7 @@
   - [quill](https://github.com/quilljs/quill) ★ 35134 - Quill是一种现代的WYSIWYG编辑器，旨在实现兼容性和可扩展性。
   - [Editor.js](https://github.com/codex-team/editor.js) ★ 22580 - 具有干净JSON输出的块样式编辑器
   - [medium-editor](https://github.com/yabwe/medium-editor) ★ 15791 - Medium.com所见即所得的编辑器克隆。 使用contenteditable API来实现富文本解决方案。
+  - [lexical](https://github.com/facebook/lexical) ★ 14139 - Lexical是一个可扩展的文本编辑器框架，提供了出色的可靠性、可访问性和性能。
   - [wangEditor](https://github.com/wangeditor-team/wangEditor) ★ 15436 - 轻量级的Web 富文本编辑器，易于配置和使用。 支持IE10+浏览器。
   - [tinymce](https://github.com/tinymce/tinymce) ★ 12878 - 世界上最受欢迎的JavaScript库，用于富文本编辑。 适用于React，Vue和Angular。
   - [pell](https://github.com/jaredreich/pell) ★ 11825 - 用于网络的最简单，最小的WYSIWYG文本编辑器，没有依赖项。
