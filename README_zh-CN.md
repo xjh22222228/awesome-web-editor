@@ -24,44 +24,44 @@
 
 ## 富文本编辑器
 - 纯JavaScript
-  - [quill](https://github.com/quilljs/quill) ★ 36406 - Quill是一种现代的WYSIWYG编辑器，旨在实现兼容性和可扩展性。
-  - [Editor.js](https://github.com/codex-team/editor.js) ★ 23602 - 具有干净JSON输出的块样式编辑器
-  - [medium-editor](https://github.com/yabwe/medium-editor) ★ 15840 - Medium.com所见即所得的编辑器克隆。 使用contenteditable API来实现富文本解决方案。
-  - [wangEditor](https://github.com/wangeditor-team/wangEditor) ★ 15798 - 轻量级的Web 富文本编辑器，易于配置和使用。 支持IE10+浏览器。
-  - [lexical](https://github.com/facebook/lexical) ★ 14909 - Lexical是一个可扩展的文本编辑器框架，提供了出色的可靠性、可访问性和性能。
-  - [tinymce](https://github.com/tinymce/tinymce) ★ 13204 - 世界上最受欢迎的JavaScript库，用于富文本编辑。 适用于React，Vue和Angular。
-  - [pell](https://github.com/jaredreich/pell) ★ 11844 - 用于网络的最简单，最小的WYSIWYG文本编辑器，没有依赖项。
-  - [ckeditor5](https://github.com/ckeditor/ckeditor5) ★ 7330 - CKEditor 5的开发环境–最好的基于浏览器的富文本编辑器。
-  - [prosemirror](https://github.com/ProseMirror/prosemirror) ★ 6702 - ProseMirror所见即所得编辑器。
-  - [wysihtml5](https://github.com/xing/wysihtml5) ★ 6525 - 基于HTML5和渐进增强方法的开源富文本编辑器。 使用复杂的安全性概念，旨在通过防止无法维护的标签内容和内联样式来生成完全有效的HTML5标记。
-  - [ueditor](https://github.com/fex-team/ueditor) ★ 6456 - 百度富文本编辑器.
-  - [simditor](https://github.com/mycolorway/simditor) ★ 5003 - 便捷的所见即所得编辑器。
+  - [quill](https://github.com/quilljs/quill) ★ 36418 - Quill是一种现代的WYSIWYG编辑器，旨在实现兼容性和可扩展性。
+  - [Editor.js](https://github.com/codex-team/editor.js) ★ 23609 - 具有干净JSON输出的块样式编辑器
+  - [medium-editor](https://github.com/yabwe/medium-editor) ★ 15841 - Medium.com所见即所得的编辑器克隆。 使用contenteditable API来实现富文本解决方案。
+  - [wangEditor](https://github.com/wangeditor-team/wangEditor) ★ 15803 - 轻量级的Web 富文本编辑器，易于配置和使用。 支持IE10+浏览器。
+  - [lexical](https://github.com/facebook/lexical) ★ 14921 - Lexical是一个可扩展的文本编辑器框架，提供了出色的可靠性、可访问性和性能。
+  - [tinymce](https://github.com/tinymce/tinymce) ★ 13211 - 世界上最受欢迎的JavaScript库，用于富文本编辑。 适用于React，Vue和Angular。
+  - [pell](https://github.com/jaredreich/pell) ★ 11845 - 用于网络的最简单，最小的WYSIWYG文本编辑器，没有依赖项。
+  - [ckeditor5](https://github.com/ckeditor/ckeditor5) ★ 7331 - CKEditor 5的开发环境–最好的基于浏览器的富文本编辑器。
+  - [prosemirror](https://github.com/ProseMirror/prosemirror) ★ 6705 - ProseMirror所见即所得编辑器。
+  - [wysihtml5](https://github.com/xing/wysihtml5) ★ 6526 - 基于HTML5和渐进增强方法的开源富文本编辑器。 使用复杂的安全性概念，旨在通过防止无法维护的标签内容和内联样式来生成完全有效的HTML5标记。
+  - [ueditor](https://github.com/fex-team/ueditor) ★ 6457 - 百度富文本编辑器.
+  - [simditor](https://github.com/mycolorway/simditor) ★ 5004 - 便捷的所见即所得编辑器。
   - [pen](https://github.com/sofish/pen) ★ 4778 - 享受实时编辑 (+markdown).
   - [Squire](https://github.com/neilj/Squire) ★ 4571 - Squire是HTML5富文本编辑器，可提供强大的跨浏览器标准化功能，同时又轻巧又灵活。 它是为现在和将来构建的，因此不支持真正的古老浏览器。 它应该可以在Opera 12，Firefox 3.5，Safari 5，Chrome 9和IE9周围正常工作。
   - [mercury](https://github.com/jejacks0n/mercury) ★ 2633 - Mercury编辑器：Rails HTML5 WYSIWYG编辑器。
   - [kindeditor](https://github.com/kindsoft/kindeditor) ★ 1865 - 所见即所得的HTML编辑器。
   - [mobiledoc-kit](https://github.com/bustle/mobiledoc-kit) ★ 1541 - 使用Mobiledoc构建所见即所得编辑器的工具包。
-  - [jodit](https://github.com/xdan/jodit) ★ 1429 - Jodit - 最佳所见即所得编辑器。
-  - [SunEditor](https://github.com/JiHong88/SunEditor) ★ 1192 - 基于纯 javascript 的 WYSIWYG html 编辑器，没有依赖项。
+  - [jodit](https://github.com/xdan/jodit) ★ 1430 - Jodit - 最佳所见即所得编辑器。
+  - [SunEditor](https://github.com/JiHong88/SunEditor) ★ 1194 - 基于纯 javascript 的 WYSIWYG html 编辑器，没有依赖项。
   - [Textbus](https://github.com/textbus/textbus) ★ 845 - 一个组件化、高性能的富文本开发框架，并且支持在线协作编辑。
-  - [am-editor](https://github.com/yanmao-cc/am-editor) ★ 785 - 一个富文本实时协同编辑器框架，可以使用React和Vue自定义插件。
+  - [am-editor](https://github.com/yanmao-cc/am-editor) ★ 788 - 一个富文本实时协同编辑器框架，可以使用React和Vue自定义插件。
 - vue.js
-  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 20188 - Vue.js的富文本编辑器
-  - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ★ 7274 - Vue的Quill编辑器组件，支持SPA和SSR.
+  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 20203 - Vue.js的富文本编辑器
+  - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ★ 7276 - Vue的Quill编辑器组件，支持SPA和SSR.
   - [vue2-editor](https://github.com/davidroyer/vue2-editor) ★ 2466 - 使用 Vue2 和 Quill 的文本编辑器。
   - [neditor](https://github.com/notadd/neditor) ★ 1921 - 基于ueditor的更现代的RTF编辑器，支持HTTPS。
   - [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) ★ 321 - Vue.js的editor.js包装器组件
   - [iview-editor](https://github.com/iview/iview-editor) ★ 223 - iView Editor 是基于 iView 的 markdown 编辑器，支持上传图片（可集成七牛等服务），支持全屏实时编辑预览。
 - react
-  - [slate](https://github.com/ianstormtaylor/slate) ★ 27480 - 一个完全可定制的框架，用于构建富文本编辑器。
-  - [draft-js](https://github.com/facebook/draft-js) ★ 22446 - 一个用于构建文本编辑器的React框架。
+  - [slate](https://github.com/ianstormtaylor/slate) ★ 27487 - 一个完全可定制的框架，用于构建富文本编辑器。
+  - [draft-js](https://github.com/facebook/draft-js) ★ 22447 - 一个用于构建文本编辑器的React框架。
   - [react-quill](https://github.com/zenoamaro/react-quill) ★ 5964 - React的Quill组件。
   - [braft-editor](https://github.com/margox/braft-editor) ★ 4551 - 美观易用的React富文本编辑器，基于draft-js开发.
   - [alloy-editor](https://github.com/liferay/alloy-editor/) ★ 988 - 基于CKEditor的WYSIWYG编辑器，具有完全重写的UI。
   - [dante2](https://github.com/michelson/dante2) ★ 917 - 在draft-js中完全重写了dante编辑器。
   - [bangle.dev](https://github.com/bangle-io/bangle.dev) ★ 572 - 丰富的文本编辑器工具集合，可用于构建您的下一个Google文档克隆。
 - jQuery
-  - [summernote](https://github.com/summernote/summernote) ★ 11160 - 超级简单的所见即所得编辑器，Summernote基于jQuery构建。
+  - [summernote](https://github.com/summernote/summernote) ★ 11161 - 超级简单的所见即所得编辑器，Summernote基于jQuery构建。
   - [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg/) ★ 5632 - 微小的Bootstrap WYSIWYG 编辑器
   - [wysiwyg-editor](https://github.com/froala/wysiwyg-editor) ★ 5113 - 下一代JavaScript所见即所得HTML编辑器。
   - [jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) ★ 1688 - 现代，简单，优雅的所见即所得富文本编辑器。
@@ -75,23 +75,23 @@
 ## Markdown 编辑器
 - 纯JavaScript
   - [tui.editor](https://github.com/nhn/tui.editor/tree/master/apps/editor) ★ 12816 - Markdown所见即所得编辑器。 GFM标准+图表和UML可扩展。
-  - [simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) ★ 9466 - 简单，美观，可嵌入的JavaScript Markdown编辑器。 不论是初学者还是专家，都可轻松编辑。 具有内置的自动保存和拼写检查功能。
-  - [dillinger](https://github.com/joemccann/dillinger) ★ 7707 - 最后一个Markdown编辑器。
-  - [milkdown](https://github.com/Saul-Mirone/milkdown) ★ 7604 - 插件驱动的所见即所得的Markdown编辑器框架。
+  - [simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) ★ 9469 - 简单，美观，可嵌入的JavaScript Markdown编辑器。 不论是初学者还是专家，都可轻松编辑。 具有内置的自动保存和拼写检查功能。
+  - [dillinger](https://github.com/joemccann/dillinger) ★ 7709 - 最后一个Markdown编辑器。
+  - [milkdown](https://github.com/Saul-Mirone/milkdown) ★ 7608 - 插件驱动的所见即所得的Markdown编辑器框架。
   - [pen](https://github.com/sofish/pen) ★ 4778 - 享受现场编辑 (+markdown).
   - [EpicEditor](https://github.com/OscarGodson/EpicEditor) ★ 4267 - 可嵌入的JavaScript Markdown编辑器。
-  - [markdown-nice](https://github.com/mdnice/markdown-nice) ★ 3864 - 支持主题设计的 Markdown 编辑器，让排版变 Nice
+  - [markdown-nice](https://github.com/mdnice/markdown-nice) ★ 3865 - 支持主题设计的 Markdown 编辑器，让排版变 Nice
   - [editor](https://github.com/lepture/editor) ★ 2774 - Markdown 编辑器
   - [stackedit.js](https://github.com/benweet/stackedit.js) ★ 965 - 将StackEdit添加到任何网站。
 - jQuery
-  - [editor.md](https://github.com/pandao/editor.md) ★ 13087 - 开源可嵌入在线Markdown编辑器（组件）。
+  - [editor.md](https://github.com/pandao/editor.md) ★ 13089 - 开源可嵌入在线Markdown编辑器（组件）。
 - vue.js
-  - [milkdown](https://github.com/Saul-Mirone/milkdown) ★ 7604 - 插件驱动的所见即所得的Markdown编辑器框架。
-  - [mavonEditor](https://github.com/hinesboy/mavonEditor) ★ 6126 - 基于Vue的markdown编辑器，支持多种个性化功能。
+  - [milkdown](https://github.com/Saul-Mirone/milkdown) ★ 7608 - 插件驱动的所见即所得的Markdown编辑器框架。
+  - [mavonEditor](https://github.com/hinesboy/mavonEditor) ★ 6128 - 基于Vue的markdown编辑器，支持多种个性化功能。
 - React
-  - [mdx](https://github.com/mdx-js/mdx) ★ 15495 - MDX是一种可编辑的格式，可让您在markdown文档中无缝使用JSX。 您可以导入组件，例如交互式图表或通知，以及导出元数据。 这使得编写带有组件的长格式内容成为爆炸。
-  - [react-markdown](https://github.com/remarkjs/react-markdown) ★ 10821 - 将Markdown渲染为React组件。
-  - [milkdown](https://github.com/Saul-Mirone/milkdown) ★ 7604 - 插件驱动的所见即所得的Markdown编辑器框架。
+  - [mdx](https://github.com/mdx-js/mdx) ★ 15500 - MDX是一种可编辑的格式，可让您在markdown文档中无缝使用JSX。 您可以导入组件，例如交互式图表或通知，以及导出元数据。 这使得编写带有组件的长格式内容成为爆炸。
+  - [react-markdown](https://github.com/remarkjs/react-markdown) ★ 10830 - 将Markdown渲染为React组件。
+  - [milkdown](https://github.com/Saul-Mirone/milkdown) ★ 7608 - 插件驱动的所见即所得的Markdown编辑器框架。
 
 
 
@@ -103,26 +103,26 @@
 
 ## Markdown 解析器
 - JavaScript
-  - [marked](https://github.com/markedjs/marked) ★ 30076 - Markdown解析器和编译器。 专为提高速度而设计。
-  - [markdown-it](https://github.com/markdown-it/markdown-it) ★ 15714 - Markdown解析器， 100％CommonMark支持，扩展，语法插件和高速。
-  - [showdown](https://github.com/showdownjs/showdown) ★ 13414 - 用JavaScript编写的双向MD到HTML到MD转换器。
-  - [markdown-js](https://github.com/evilstreak/markdown-js) ★ 7676 - Markdown的javascript解析器。
-  - [turndown](https://github.com/domchristie/turndown) ★ 7013 - 用JavaScript编写的HTML至Markdown转换器。
-  - [remark](https://github.com/remarkjs/remark) ★ 6506 - remark是Markdown处理器，由统一集合的插件提供支持。
+  - [marked](https://github.com/markedjs/marked) ★ 30086 - Markdown解析器和编译器。 专为提高速度而设计。
+  - [markdown-it](https://github.com/markdown-it/markdown-it) ★ 15721 - Markdown解析器， 100％CommonMark支持，扩展，语法插件和高速。
+  - [showdown](https://github.com/showdownjs/showdown) ★ 13418 - 用JavaScript编写的双向MD到HTML到MD转换器。
+  - [markdown-js](https://github.com/evilstreak/markdown-js) ★ 7677 - Markdown的javascript解析器。
+  - [turndown](https://github.com/domchristie/turndown) ★ 7016 - 用JavaScript编写的HTML至Markdown转换器。
+  - [remark](https://github.com/remarkjs/remark) ★ 6510 - remark是Markdown处理器，由统一集合的插件提供支持。
   - [texme](https://github.com/susam/texme) ★ 2184 - 自我渲染Markdown + LaTeX文档。
 - Golang
   - [blackfriday](https://github.com/russross/blackfriday) ★ 5191 - Blackfriday: Go的Markdown处理器。
   - [goldmark](https://github.com/yuin/goldmark) ★ 2803 - 用Go语言编写的markdown解析器。 易于扩展，符合标准（CommonMark），结构合理。
 - Python
-  - [markdown](https://github.com/Python-Markdown/markdown) ★ 3286 - John Gruber的Markdown的Python实现，带有扩展支持。
-  - [python-markdown2](https://github.com/trentm/python-markdown2) ★ 2480 - markdown2：用Python快速，完整地实现Markdown。
+  - [markdown](https://github.com/Python-Markdown/markdown) ★ 3287 - John Gruber的Markdown的Python实现，带有扩展支持。
+  - [python-markdown2](https://github.com/trentm/python-markdown2) ★ 2482 - markdown2：用Python快速，完整地实现Markdown。
 - PHP
   - [parsedown](https://github.com/erusev/parsedown) ★ 14427 - PHP中更好的Markdown解析器。
   - [php-markdown](https://github.com/michelf/php-markdown) ★ 3373 - Markdown和Markdown Extra的解析器源自原始Markdown.pl。
 - Java
-  - [commonmark-java](https://github.com/commonmark/commonmark-java) ★ 2025 - 用于解析和呈现CommonMark（Markdown）。
+  - [commonmark-java](https://github.com/commonmark/commonmark-java) ★ 2026 - 用于解析和呈现CommonMark（Markdown）。
 - C#
-  - [markdig](https://github.com/lunet-io/markdig) ★ 3681 - 用于.NET的快速，强大，兼容CommonMark的可扩展Markdown处理器。
+  - [markdig](https://github.com/lunet-io/markdig) ★ 3683 - 用于.NET的快速，强大，兼容CommonMark的可扩展Markdown处理器。
 
 
 
@@ -145,33 +145,33 @@
 
 ## 浏览器编辑器
 - markdown
-  - [stackedit](https://github.com/benweet/stackedit) ★ 20512 - 浏览器内Markdown编辑器。
+  - [stackedit](https://github.com/benweet/stackedit) ★ 20514 - 浏览器内Markdown编辑器。
   - [markdown-editor](https://github.com/jbt/markdown-editor) ★ 2791 - 实时（Github风格的）Markdown编辑器。
 - react
-  - [react-ace](https://github.com/securingsincity/react-ace) ★ 3816 - React Ace组件，支持多种语言和主题
-  - [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) ★ 3339 - Monaco React的编辑器。
+  - [react-ace](https://github.com/securingsincity/react-ace) ★ 3818 - React Ace组件，支持多种语言和主题
+  - [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) ★ 3340 - Monaco React的编辑器。
 - SVG
-  - [svgedit](https://github.com/SVG-Edit/svgedit) ★ 5719 - 强大的SVG编辑器，适合您的浏览器。
-  - [Method-Draw](https://github.com/methodofaction/Method-Draw) ★ 2567 - 方法图，操作方法的SVG编辑器。
-- [CodeMirror](https://github.com/codemirror/CodeMirror) ★ 26039 - 浏览器内代码编辑器。
-- [monaco-editor](https://github.com/Microsoft/monaco-editor) ★ 34884 - 基于浏览器的代码编辑器。
+  - [svgedit](https://github.com/SVG-Edit/svgedit) ★ 5721 - 强大的SVG编辑器，适合您的浏览器。
+  - [Method-Draw](https://github.com/methodofaction/Method-Draw) ★ 2568 - 方法图，操作方法的SVG编辑器。
+- [CodeMirror](https://github.com/codemirror/CodeMirror) ★ 26046 - 浏览器内代码编辑器。
+- [monaco-editor](https://github.com/Microsoft/monaco-editor) ★ 34897 - 基于浏览器的代码编辑器。
 - [codesandbox-client](https://github.com/codesandbox/codesandbox-client) ★ 12473 - 专为Web应用程序开发量身定制的在线代码编辑器 🏖️
-- [ace](https://github.com/ajaxorg/ace) ★ 25798 - Ace是用JavaScript编写的独立代码编辑器。我们的目标是创建一个基于浏览器的编辑器，以匹配并扩展现有本机编辑器（如TextMate，Vim或Eclipse）的功能，可用性和性能。它可以轻松地嵌入任何网页或JavaScript应用程序中。Ace是Cloud9 IDE的主要编辑器，也是Mozilla Skywriter（Bespin）项目的后继者。
+- [ace](https://github.com/ajaxorg/ace) ★ 25800 - Ace是用JavaScript编写的独立代码编辑器。我们的目标是创建一个基于浏览器的编辑器，以匹配并扩展现有本机编辑器（如TextMate，Vim或Eclipse）的功能，可用性和性能。它可以轻松地嵌入任何网页或JavaScript应用程序中。Ace是Cloud9 IDE的主要编辑器，也是Mozilla Skywriter（Bespin）项目的后继者。
 
 
 ---
 
 
 ## JSON 编辑器
-- [jsoneditor](https://github.com/josdejong/jsoneditor) ★ 10463 - 一个基于Web的工具，用于查看，编辑，格式化和验证JSON
+- [jsoneditor](https://github.com/josdejong/jsoneditor) ★ 10468 - 一个基于Web的工具，用于查看，编辑，格式化和验证JSON
 
 
 ## 设计编辑器
 - 纯JavaScript
-  - [VvvebJs](https://github.com/givanz/VvvebJs) ★ 5734 - 拖放网站构建器javascript库。
+  - [VvvebJs](https://github.com/givanz/VvvebJs) ★ 5742 - 拖放网站构建器javascript库。
 - React
-  - [Excalidraw](https://github.com/excalidraw/excalidraw) ★ 51661 - 虚拟白板，用于绘制手绘的示意图。
-  - [react-email-editor](https://github.com/unlayer/react-email-editor) ★ 3960 - 用于React.js的拖放式电子邮件编辑器组件。
+  - [Excalidraw](https://github.com/excalidraw/excalidraw) ★ 51723 - 虚拟白板，用于绘制手绘的示意图。
+  - [react-email-editor](https://github.com/unlayer/react-email-editor) ★ 3964 - 用于React.js的拖放式电子邮件编辑器组件。
   - [imove](https://github.com/imgcook/imove) ★ 3718 - iMove 是一个逻辑可复用的，面向函数的，流程可视化的 JavaScript 工具库。
   - [GGEditor](https://github.com/alibaba/GGEditor) ★ 3369 - 基于G6和React的可视化图形编辑器。
   - [micro-design-editor](https://github.com/xjh22222228/micro-design-editor) - React 用于响应的微页面编辑组件。
@@ -180,7 +180,7 @@
 
 ## SVG 编辑器
 - 纯JavaScript
-  - [svgedit](https://github.com/SVG-Edit/svgedit) ★ 5719 - 强大的SVG编辑器，适合您的浏览器。
+  - [svgedit](https://github.com/SVG-Edit/svgedit) ★ 5721 - 强大的SVG编辑器，适合您的浏览器。
 
 
 
@@ -189,7 +189,7 @@
 - jQuery
   - [DataTables](https://datatables.net/) - 免费，轻松地将高级交互控件添加到HTML表格中。
 - React
-  - [react-data-grid](https://github.com/adazzle/react-data-grid) ★ 6133 - 用React构建的类似于Excel的网格组件，包括编辑器，键盘导航，复制和粘贴等。
+  - [react-data-grid](https://github.com/adazzle/react-data-grid) ★ 6138 - 用React构建的类似于Excel的网格组件，包括编辑器，键盘导航，复制和粘贴等。
 
 
 
@@ -197,7 +197,7 @@
 
 ## 其他
 - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) ★ 7177 - 复制GitHub Markdown样式的最少CSS。
-- [markdown基本语法](https://github.com/younghz/Markdown) ★ 3431 - markdown 语法教程.
+- [markdown基本语法](https://github.com/younghz/Markdown) ★ 3433 - markdown 语法教程.
 
 
 
