@@ -45,6 +45,7 @@
   - [SunEditor](https://github.com/JiHong88/SunEditor) ★ 1276 - 基于纯 javascript 的 WYSIWYG html 编辑器，没有依赖项。
   - [Textbus](https://github.com/textbus/textbus) ★ 922 - 一个组件化、高性能的富文本开发框架，并且支持在线协作编辑。
   - [am-editor](https://github.com/yanmao-cc/am-editor) ★ 873 - 一个富文本实时协同编辑器框架，可以使用React和Vue自定义插件。
+  - [Aloha-Editor](https://github.com/alohaeditor/Aloha-Editor?tab=readme-ov-file) ★ 1000 - 基于“所见即所得”的原则，HTML5编辑器使得直接在门户上编辑网站成为可能。快速、简单地编辑视频、照片、图形、动画和文本是 Aloha Editor 的日常工作。
 - vue.js
   - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 22295 - Vue.js的富文本编辑器
   - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ★ 7330 - Vue的Quill编辑器组件，支持SPA和SSR.

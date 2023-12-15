@@ -46,6 +46,7 @@
   - [SunEditor](https://github.com/JiHong88/SunEditor) ★ 1276 - Pure javascript based WYSIWYG html editor, with no dependencies.
   - [Textbus](https://github.com/textbus/textbus) ★ 922 - A component-based and high-performance rich text develop framework that Support online collaborative editing.
   - [am-editor](https://github.com/yanmao-cc/am-editor) ★ 873 - A rich text collaborative editor framework that can use React and Vue custom plug-ins.
+  - [Aloha-Editor](https://github.com/alohaeditor/Aloha-Editor?tab=readme-ov-file) ★ 1000 - Aloha Editor is a JavaScript content editing library。
 - vue.js
   - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 22295 - A rich-text editor for Vue.js
   - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ★ 7330 - Quill editor component for Vue, support SPA and SSR.
