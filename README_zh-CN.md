@@ -24,6 +24,7 @@
 
 ## 富文本编辑器
 - 纯JavaScript
+  - [canvas-editor](https://github.com/Hufe921/canvas-editor) ★ 37959 - canvas/svg 的富文本编辑器。
   - [quill](https://github.com/quilljs/quill) ★ 37959 - Quill是一种现代的WYSIWYG编辑器，旨在实现兼容性和可扩展性。
   - [Editor.js](https://github.com/codex-team/editor.js) ★ 25618 - 具有干净JSON输出的块样式编辑器
   - [wangEditor](https://github.com/wangeditor-team/wangEditor) ★ 16639 - 轻量级的Web 富文本编辑器，易于配置和使用。 支持IE10+浏览器。

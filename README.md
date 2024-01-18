@@ -25,6 +25,7 @@
 
 ## Rich text editor
 - Pure JavaScript
+  - [canvas-editor](https://github.com/Hufe921/canvas-editor) ★ 37959 - rich text editor by canvas/svg.
   - [quill](https://github.com/quilljs/quill) ★ 37959 - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
   - [Editor.js](https://github.com/codex-team/editor.js) ★ 25618 - A block-styled editor with clean JSON output
   - [wangEditor](https://github.com/wangeditor-team/wangEditor) ★ 16639 - Lightweight web rich text editor, easy to configure and use. Support IE10 + browser.
