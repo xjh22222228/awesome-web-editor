@@ -173,7 +173,7 @@
 ## Document editor
 
 - Vue
-  - [Umo Editor](https://github.com/umodoc/editor) - A localized open-source document editor suitable for Chinese use based on Vue3. Umo Editor provides comprehensive document editing capabilities, supports Markdown syntax, basic rich text editing functions, supports multiple node types for inserting multiple formats, provides various types of practical tools, and supports setting page styles and exporting multiple types of formats.
+  - [Umo Editor](https://github.com/umodoc/editor) ★ 18 - A localized open-source document editor suitable for Chinese use based on Vue3. Umo Editor provides comprehensive document editing capabilities, supports Markdown syntax, basic rich text editing functions, supports multiple node types for inserting multiple formats, provides various types of practical tools, and supports setting page styles and exporting multiple types of formats.
 
 ---
 
