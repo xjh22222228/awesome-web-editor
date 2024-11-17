@@ -47,14 +47,16 @@
   - [mobiledoc-kit](https://github.com/bustle/mobiledoc-kit) ★ 1549 - A toolkit for building WYSIWYG editors with Mobiledoc.
   - [Textbus](https://github.com/textbus/textbus) ★ 1102 - A component-based and high-performance rich text develop framework that Support online collaborative editing.
   - [am-editor](https://github.com/yanmao-cc/am-editor) ★ 940 - A rich text collaborative editor framework that can use React and Vue custom plug-ins.
+  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 27524 - The headless rich text editor framework for web artisans.
 - vue.js
-  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 27524 - A rich-text editor for Vue.js
+  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 27524 - The headless rich text editor framework for web artisans.
   - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ★ 7387 - Quill editor component for Vue, support SPA and SSR.
   - [vue2-editor](https://github.com/davidroyer/vue2-editor) ★ 2510 - A text editor using Vue2 and Quill.
   - [neditor](https://github.com/notadd/neditor) ★ 1904 - A more modern rich text editor based on ueditor, supporting HTTPS.
   - [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) ★ 360 - editor.js wrapper component for Vue.js
   - [iview-editor](https://github.com/iview/iview-editor) ★ 222 - iView Editor.
 - react
+  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 27524 - The headless rich text editor framework for web artisans.
   - [slate](https://github.com/ianstormtaylor/slate) ★ 29939 - A completely customizable framework for building rich text editors.
   - [draft-js](https://github.com/facebook/draft-js) ★ 22575 - A React framework for building text editors.
   - [react-quill](https://github.com/zenoamaro/react-quill) ★ 6777 - A Quill component for React.

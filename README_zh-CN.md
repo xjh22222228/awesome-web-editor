@@ -47,14 +47,16 @@
   - [mobiledoc-kit](https://github.com/bustle/mobiledoc-kit) ★ 1549 - 使用 Mobiledoc 构建所见即所得编辑器的工具包。
   - [Textbus](https://github.com/textbus/textbus) ★ 1102 - 一个组件化、高性能的富文本开发框架，并且支持在线协作编辑。
   - [am-editor](https://github.com/yanmao-cc/am-editor) ★ 940 - 一个富文本实时协同编辑器框架，可以使用 React 和 Vue 自定义插件。
+  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 27524 - 面向 web 技术人员的无头富文本编辑器框架。
 - vue.js
-  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 27524 - Vue.js 的富文本编辑器
+  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 27524 - 面向 web 技术人员的无头富文本编辑器框架。
   - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ★ 7387 - Vue 的 Quill 编辑器组件，支持 SPA 和 SSR.
   - [vue2-editor](https://github.com/davidroyer/vue2-editor) ★ 2510 - 使用 Vue2 和 Quill 的文本编辑器。
   - [neditor](https://github.com/notadd/neditor) ★ 1904 - 基于 ueditor 的更现代的 RTF 编辑器，支持 HTTPS。
   - [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) ★ 360 - Vue.js 的 editor.js 包装器组件
   - [iview-editor](https://github.com/iview/iview-editor) ★ 222 - iView Editor 是基于 iView 的 markdown 编辑器，支持上传图片（可集成七牛等服务），支持全屏实时编辑预览。
 - react
+  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 27524 - 面向 web 技术人员的无头富文本编辑器框架。
   - [slate](https://github.com/ianstormtaylor/slate) ★ 29939 - 一个完全可定制的框架，用于构建富文本编辑器。
   - [draft-js](https://github.com/facebook/draft-js) ★ 22575 - 一个用于构建文本编辑器的 React 框架。
   - [react-quill](https://github.com/zenoamaro/react-quill) ★ 6777 - React 的 Quill 组件。
