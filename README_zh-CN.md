@@ -30,6 +30,7 @@
   - [lexical](https://github.com/facebook/lexical) ★ 19978 - Lexical 是一个可扩展的文本编辑器框架，提供了出色的可靠性、可访问性和性能。
   - [wangEditor](https://github.com/wangeditor-team/wangEditor) ★ 17598 - 轻量级的 Web 富文本编辑器，易于配置和使用。 支持 IE10+浏览器。
   - [medium-editor](https://github.com/yabwe/medium-editor) ★ 16074 - Medium.com 所见即所得的编辑器克隆。 使用 contenteditable API 来实现富文本解决方案。
+  - [wangEditor-next](https://github.com/cycleccc/wangEditor-next) ★ 263 - wangEditor-next —— 基于 slate.js 的富文本编辑器。
   - [tinymce](https://github.com/tinymce/tinymce) ★ 15083 - 世界上最受欢迎的 JavaScript 库，用于富文本编辑。 适用于 React，Vue 和 Angular。
   - [pell](https://github.com/jaredreich/pell) ★ 11973 - 用于网络的最简单，最小的 WYSIWYG 文本编辑器，没有依赖项。
   - [ckeditor5](https://github.com/ckeditor/ckeditor5) ★ 9634 - CKEditor 5 的开发环境–最好的基于浏览器的富文本编辑器。

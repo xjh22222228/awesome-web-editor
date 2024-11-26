@@ -24,6 +24,7 @@
 ## Rich text editor
 
 - Pure JavaScript
+  - [wangEditor-next](https://github.com/cycleccc/wangEditor-next) ★ 263 - wangEditor-next —— rich text editor, based on slate.js.
   - [quill](https://github.com/quilljs/quill) ★ 43883 - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
   - [Editor.js](https://github.com/codex-team/editor.js) ★ 28864 - A block-styled editor with clean JSON output
   - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 27657 - The headless rich text editor framework for web artisans.
