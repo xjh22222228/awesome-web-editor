@@ -24,8 +24,9 @@
 ## Rich text editor
 
 - Pure JavaScript
+  - [AiEditor](https://github.com/aieditor-team/AiEditor) ★ 1 - AiEditor is a next-generation rich text editor for AI.
   - [quill](https://github.com/quilljs/quill) ★ 43910 - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
-  - [Editor.js](https://github.com/codex-team/editor.js) ★ 28884 - A block-styled editor with clean JSON output
+  - [Editor.js](https://github.com/codex-team/editor.js) ★ 28884 - A block-styled editor with clean JSON output.
   - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 27692 - The headless rich text editor framework for web artisans.
   - [lexical](https://github.com/facebook/lexical) ★ 19994 - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
   - [wangEditor](https://github.com/wangeditor-team/wangEditor) ★ 17603 - Lightweight web rich text editor, easy to configure and use. Support IE10 + browser.

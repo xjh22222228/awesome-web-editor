@@ -24,6 +24,7 @@
 ## 富文本编辑器
 
 - 纯 JavaScript
+  - [AiEditor](https://github.com/aieditor-team/AiEditor) ★ 1 - 适用于 AI 的下一代富文本编辑器。
   - [quill](https://github.com/quilljs/quill) ★ 43910 - Quill 是一种现代的 WYSIWYG 编辑器，旨在实现兼容性和可扩展性。
   - [Editor.js](https://github.com/codex-team/editor.js) ★ 28884 - 具有干净 JSON 输出的块样式编辑器
   - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 27692 - 面向 web 技术人员的无头富文本编辑器框架。
