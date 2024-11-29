@@ -105,6 +105,8 @@
 - JavaScript
   - [marked](https://github.com/markedjs/marked) ★ 33283 - Markdown 解析器和编译器。 专为提高速度而设计。
   - [markdown-it](https://github.com/markdown-it/markdown-it) ★ 18362 - Markdown 解析器， 100％CommonMark 支持，扩展，语法插件和高速。
+    - [markdown-it-anchor](https://github.com/valeriangalliat/markdown-it-anchor) 一个 markdown-it 插件，为标题和可选的永久链接添加一个`id`属性。
+    - [markdown-it-async](https://github.com/antfu/markdown-it-async) 增强 markdown 功能，支持异步高亮功能。
   - [showdown](https://github.com/showdownjs/showdown) ★ 14339 - 用 JavaScript 编写的双向 MD 到 HTML 到 MD 转换器。
   - [turndown](https://github.com/domchristie/turndown) ★ 8939 - 用 JavaScript 编写的 HTML 至 Markdown 转换器。
   - [remark](https://github.com/remarkjs/remark) ★ 7729 - remark 是 Markdown 处理器，由统一集合的插件提供支持。

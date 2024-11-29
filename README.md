@@ -105,6 +105,8 @@
 - JavaScript
   - [marked](https://github.com/markedjs/marked) ★ 33283 - A markdown parser and compiler. Built for speed.
   - [markdown-it](https://github.com/markdown-it/markdown-it) ★ 18362 - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed.
+    - [markdown-it-anchor](https://github.com/valeriangalliat/markdown-it-anchor) A markdown-it plugin that adds an `id` attribute to headings and optionally permalinks.
+    - [markdown-it-async](https://github.com/antfu/markdown-it-async) Enhance markdown-it to support async highlight function.
   - [showdown](https://github.com/showdownjs/showdown) ★ 14339 - A bidirectional MD to HTML to MD converter written in Javascript.
   - [turndown](https://github.com/domchristie/turndown) ★ 8939 - An HTML to Markdown converter written in JavaScript.
   - [remark](https://github.com/remarkjs/remark) ★ 7729 - remark is a Markdown processor powered by plugins part of the unified collective.
