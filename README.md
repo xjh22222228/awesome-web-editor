@@ -159,6 +159,7 @@
 
 - Pure JavaScript
   - [VvvebJs](https://github.com/givanz/VvvebJs) ★ 7443 - Drag and drop website builder javascript library.
+  - [grapesjs](https://github.com/GrapesJS/grapesjs) ★ 23 - The embeddable drag-and-drop builder.
 - React
   - [Excalidraw](https://github.com/excalidraw/excalidraw) ★ 90288 - Virtual whiteboard for sketching hand-drawn like diagrams.
   - [react-email-editor](https://github.com/unlayer/react-email-editor) ★ 4697 - Drag-n-Drop Email Editor Component for React.js.

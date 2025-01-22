@@ -159,6 +159,7 @@
 
 - 纯 JavaScript
   - [VvvebJs](https://github.com/givanz/VvvebJs) ★ 7443 - 拖放网站构建器 javascript 库。
+  - [grapesjs](https://github.com/GrapesJS/grapesjs) ★ 23 - 可嵌入的拖放构建器。
 - React
   - [Excalidraw](https://github.com/excalidraw/excalidraw) ★ 90288 - 虚拟白板，用于绘制手绘的示意图。
   - [react-email-editor](https://github.com/unlayer/react-email-editor) ★ 4697 - 用于 React.js 的拖放式电子邮件编辑器组件。
