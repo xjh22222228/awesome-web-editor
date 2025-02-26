@@ -137,6 +137,7 @@
 - markdown
   - [stackedit](https://github.com/benweet/stackedit) ★ 22021 - In-browser Markdown editor.
   - [markdown-editor](https://github.com/jbt/markdown-editor) ★ 2843 - Live (Github-flavored) Markdown Editor.
+  - [md](https://github.com/doocs/md) ★ 22021 - WeChat Markdown Editor.
 - react
   - [react-ace](https://github.com/securingsincity/react-ace) ★ 4126 - React Ace Component, Support multiple languages and themes
   - [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) ★ 3933 - Monaco Editor for React.

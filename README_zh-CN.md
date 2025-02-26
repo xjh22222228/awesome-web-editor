@@ -137,6 +137,7 @@
 - markdown
   - [stackedit](https://github.com/benweet/stackedit) ★ 22021 - 浏览器内 Markdown 编辑器。
   - [markdown-editor](https://github.com/jbt/markdown-editor) ★ 2843 - 实时（Github 风格的）Markdown 编辑器。
+  - [md](https://github.com/doocs/md) ★ 22021 - 一款高度简洁的微信 Markdown 编辑器。
 - react
   - [react-ace](https://github.com/securingsincity/react-ace) ★ 4126 - React Ace 组件，支持多种语言和主题
   - [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) ★ 3933 - Monaco React 的编辑器。
