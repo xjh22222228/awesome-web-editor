@@ -66,6 +66,7 @@
   - [alloy-editor](https://github.com/liferay/alloy-editor/) ★ 988 - WYSIWYG editor based on CKEditor with completely rewritten UI.
   - [dante2](https://github.com/michelson/dante2) ★ 912 - A complete rewrite of dante editor in draft-js.
   - [bangle.dev](https://github.com/bangle-io/bangle.dev) ★ 660 - A collection of rich text editor tools to build your next Google doc clone.
+  - [plate](https://github.com/udecode/plate) ★ 912 - A rich-text editor powered by AI.
 - jQuery
   - [summernote](https://github.com/summernote/summernote) ★ 11676 - Super simple WYSIWYG editor, Summernote is built on jQuery.
   - [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg/) ★ 5632 - Tiny bootstrap-compatible WISWYG rich text editor

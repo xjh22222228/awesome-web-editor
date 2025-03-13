@@ -66,6 +66,7 @@
   - [alloy-editor](https://github.com/liferay/alloy-editor/) ★ 988 - 基于 CKEditor 的 WYSIWYG 编辑器，具有完全重写的 UI。
   - [dante2](https://github.com/michelson/dante2) ★ 912 - 在 draft-js 中完全重写了 dante 编辑器。
   - [bangle.dev](https://github.com/bangle-io/bangle.dev) ★ 660 - 丰富的文本编辑器工具集合，可用于构建您的下一个 Google 文档克隆。
+  - [plate](https://github.com/udecode/plate) ★ 912 - 由人工智能驱动的富文本编辑器。
 - jQuery
   - [summernote](https://github.com/summernote/summernote) ★ 11676 - 超级简单的所见即所得编辑器，Summernote 基于 jQuery 构建。
   - [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg/) ★ 5632 - 微小的 Bootstrap WYSIWYG 编辑器
