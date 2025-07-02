@@ -116,6 +116,7 @@
 - Golang
   - [blackfriday](https://github.com/russross/blackfriday) ★ 5560 - Blackfriday: a markdown processor for Go.
   - [goldmark](https://github.com/yuin/goldmark) ★ 4154 - A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
+  - [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) ★ 1 - Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - Python
   - [markdown](https://github.com/Python-Markdown/markdown) ★ 4014 - A Python implementation of John Gruber’s Markdown with Extension support.
   - [python-markdown2](https://github.com/trentm/python-markdown2) ★ 2781 - markdown2: A fast and complete implementation of Markdown in Python.

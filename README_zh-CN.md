@@ -116,6 +116,7 @@
 - Golang
   - [blackfriday](https://github.com/russross/blackfriday) ★ 5560 - Blackfriday: Go 的 Markdown 处理器。
   - [goldmark](https://github.com/yuin/goldmark) ★ 4154 - 用 Go 语言编写的 markdown 解析器。 易于扩展，符合标准（CommonMark），结构合理。
+  - [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) ★ 1 - 将 HTML 转换为 Markdown。甚至可以与整个网站协同工作，并可以通过规则进行扩展。
 - Python
   - [markdown](https://github.com/Python-Markdown/markdown) ★ 4014 - John Gruber 的 Markdown 的 Python 实现，带有扩展支持。
   - [python-markdown2](https://github.com/trentm/python-markdown2) ★ 2781 - markdown2：用 Python 快速，完整地实现 Markdown。
