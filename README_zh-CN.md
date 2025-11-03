@@ -105,6 +105,7 @@
 
 - JavaScript
   - [marked](https://github.com/markedjs/marked) ★ 35963 - Markdown 解析器和编译器。 专为提高速度而设计。
+  - [markdown-exit](https://github.com/serkodev/markdown-exit) ★ 35963 - 快速、可定制的 Markdown 解析器和渲染器，完全支持 CommonMark。基于 Markdown-it 的 TypeScript 重写版本，并进行了增强。
   - [markdown-it](https://github.com/markdown-it/markdown-it) ★ 20564 - Markdown 解析器， 100％CommonMark 支持，扩展，语法插件和高速。
     - [markdown-it-anchor](https://github.com/valeriangalliat/markdown-it-anchor) 一个 markdown-it 插件，为标题和可选的永久链接添加一个`id`属性。
     - [markdown-it-async](https://github.com/antfu/markdown-it-async) 增强 markdown 功能，支持异步高亮功能。

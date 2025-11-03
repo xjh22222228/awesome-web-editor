@@ -105,6 +105,7 @@
 
 - JavaScript
   - [marked](https://github.com/markedjs/marked) ★ 35963 - A markdown parser and compiler. Built for speed.
+  - [markdown-exit](https://github.com/serkodev/markdown-exit) ★ 35963 - Fast, customizable Markdown parser and renderer with full CommonMark support. TypeScript rewrite of markdown-it with enhancements.
   - [markdown-it](https://github.com/markdown-it/markdown-it) ★ 20564 - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed.
     - [markdown-it-anchor](https://github.com/valeriangalliat/markdown-it-anchor) A markdown-it plugin that adds an `id` attribute to headings and optionally permalinks.
     - [markdown-it-async](https://github.com/antfu/markdown-it-async) Enhance markdown-it to support async highlight function.
