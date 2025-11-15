@@ -144,6 +144,7 @@
 - react
   - [react-ace](https://github.com/securingsincity/react-ace) ★ 4195 - React Ace Component, Support multiple languages and themes
   - [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) ★ 4102 - Monaco Editor for React.
+  - [monaco-react](https://github.com/suren-atoyan/monaco-react) ★ 4102 - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins.
 - SVG
   - [svgedit](https://github.com/SVG-Edit/svgedit) ★ 7324 - Powerful SVG-Editor for your browser.
   - [Method-Draw](https://github.com/methodofaction/Method-Draw) ★ 2951 - Method Draw, the SVG Editor for Method of Action.

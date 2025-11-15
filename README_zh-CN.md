@@ -144,6 +144,7 @@
 - react
   - [react-ace](https://github.com/securingsincity/react-ace) ★ 4195 - React Ace 组件，支持多种语言和主题
   - [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) ★ 4102 - Monaco React 的编辑器。
+  - [monaco-react](https://github.com/suren-atoyan/monaco-react) ★ 4102 - 适用于 React 的 Monaco 编辑器 - 在任何 React 应用程序中使用 monaco-editor，无需使用 webpack（或 rollup/parcel 等）配置文件/插件。
 - SVG
   - [svgedit](https://github.com/SVG-Edit/svgedit) ★ 7324 - 强大的 SVG 编辑器，适合您的浏览器。
   - [Method-Draw](https://github.com/methodofaction/Method-Draw) ★ 2951 - 方法图，操作方法的 SVG 编辑器。
