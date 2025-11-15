@@ -141,9 +141,12 @@
   - [stackedit](https://github.com/benweet/stackedit) ★ 22615 - 浏览器内 Markdown 编辑器。
   - [md](https://github.com/doocs/md) ★ 11009 - 一款高度简洁的微信 Markdown 编辑器。
   - [markdown-editor](https://github.com/jbt/markdown-editor) ★ 2865 - 实时（Github 风格的）Markdown 编辑器。
+- Vue
+  - [monaco-editor-vue3](https://github.com/bazingaedward/monaco-editor-vue3) ★ 4195 - Vue3 的 Monaco 编辑器。
+  - [monaco-vue](https://github.com/imguolao/monaco-vue) ★ 4195 - 在 Vue 2&3 中使用从 CDN 加载的 monaco-editor，无需打包。
 - react
   - [monaco-react](https://github.com/suren-atoyan/monaco-react) ★ 4524 - 适用于 React 的 Monaco 编辑器 - 在任何 React 应用程序中使用 monaco-editor，无需使用 webpack（或 rollup/parcel 等）配置文件/插件。
-  - [react-ace](https://github.com/securingsincity/react-ace) ★ 4195 - React Ace 组件，支持多种语言和主题
+  - [react-ace](https://github.com/securingsincity/react-ace) ★ 4195 - React Ace 组件，支持多种语言和主题。
   - [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) ★ 4102 - Monaco React 的编辑器。
 - SVG
   - [svgedit](https://github.com/SVG-Edit/svgedit) ★ 7325 - 强大的 SVG 编辑器，适合您的浏览器。

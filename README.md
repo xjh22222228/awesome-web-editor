@@ -141,6 +141,9 @@
   - [stackedit](https://github.com/benweet/stackedit) ★ 22615 - In-browser Markdown editor.
   - [md](https://github.com/doocs/md) ★ 11009 - WeChat Markdown Editor.
   - [markdown-editor](https://github.com/jbt/markdown-editor) ★ 2865 - Live (Github-flavored) Markdown Editor.
+- Vue
+  - [monaco-editor-vue3](https://github.com/bazingaedward/monaco-editor-vue3) ★ 4195 - Monaco Editor for Vue3.
+  - [monaco-vue](https://github.com/imguolao/monaco-vue) ★ 4195 - Use monaco-editor loaded from CDN in Vue 2&3, no need to bundling.
 - react
   - [monaco-react](https://github.com/suren-atoyan/monaco-react) ★ 4524 - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins.
   - [react-ace](https://github.com/securingsincity/react-ace) ★ 4195 - React Ace Component, Support multiple languages and themes
