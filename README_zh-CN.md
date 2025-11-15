@@ -156,6 +156,7 @@
 - [codesandbox-client](https://github.com/codesandbox/codesandbox-client) ★ 13489 - 专为 Web 应用程序开发量身定制的在线代码编辑器 🏖️
 - [ace](https://github.com/ajaxorg/ace) ★ 27068 - Ace 是用 JavaScript 编写的独立代码编辑器。我们的目标是创建一个基于浏览器的编辑器，以匹配并扩展现有本机编辑器（如 TextMate，Vim 或 Eclipse）的功能，可用性和性能。它可以轻松地嵌入任何网页或 JavaScript 应用程序中。Ace 是 Cloud9 IDE 的主要编辑器，也是 Mozilla Skywriter（Bespin）项目的后继者。
 - [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) ★ 42399 - 创新的开源可视化应用程序，可将各种数据格式（如 JSON、YAML、XML、CSV 等）转换为交互式图形。
+- [monaco-loader](https://github.com/suren-atoyan/monaco-loader) ★ 42399 - 用于轻松在浏览器中安装 monaco-editor 的实用程序。
 
 ---
 
