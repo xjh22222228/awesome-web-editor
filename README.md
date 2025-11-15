@@ -25,7 +25,7 @@
 
 - Pure JavaScript
   - [quill](https://github.com/quilljs/quill) ★ 46454 - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
-  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 33487 - The headless rich text editor framework for web artisans.
+  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 33488 - The headless rich text editor framework for web artisans.
   - [Editor.js](https://github.com/codex-team/editor.js) ★ 31150 - A block-styled editor with clean JSON output.
   - [lexical](https://github.com/facebook/lexical) ★ 22488 - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
   - [wangEditor](https://github.com/wangeditor-team/wangEditor) ★ 18189 - Lightweight web rich text editor, easy to configure and use. Support IE10 + browser.
@@ -51,14 +51,14 @@
   - [am-editor](https://github.com/yanmao-cc/am-editor) ★ 977 - A rich text collaborative editor framework that can use React and Vue custom plug-ins.
   - [wangEditor-next](https://github.com/cycleccc/wangEditor-next) ★ 0 - wangEditor-next —— rich text editor, based on slate.js.
 - vue.js
-  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 33487 - The headless rich text editor framework for web artisans.
+  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 33488 - The headless rich text editor framework for web artisans.
   - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ★ 7418 - Quill editor component for Vue, support SPA and SSR.
   - [vue2-editor](https://github.com/davidroyer/vue2-editor) ★ 2526 - A text editor using Vue2 and Quill.
   - [neditor](https://github.com/notadd/neditor) ★ 1895 - A more modern rich text editor based on ueditor, supporting HTTPS.
   - [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) ★ 368 - editor.js wrapper component for Vue.js
   - [iview-editor](https://github.com/iview/iview-editor) ★ 220 - iView Editor.
 - react
-  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 33487 - The headless rich text editor framework for web artisans.
+  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 33488 - The headless rich text editor framework for web artisans.
   - [slate](https://github.com/ianstormtaylor/slate) ★ 31305 - A completely customizable framework for building rich text editors.
   - [draft-js](https://github.com/facebook/draft-js) ★ 22879 - A React framework for building text editors.
   - [plate](https://github.com/udecode/plate) ★ 15456 - A rich-text editor powered by AI.
@@ -111,7 +111,7 @@
     - [markdown-it-async](https://github.com/antfu/markdown-it-async) Enhance markdown-it to support async highlight function.
   - [showdown](https://github.com/showdownjs/showdown) ★ 14763 - A bidirectional MD to HTML to MD converter written in Javascript.
   - [turndown](https://github.com/domchristie/turndown) ★ 10446 - An HTML to Markdown converter written in JavaScript.
-  - [remark](https://github.com/remarkjs/remark) ★ 8594 - remark is a Markdown processor powered by plugins part of the unified collective.
+  - [remark](https://github.com/remarkjs/remark) ★ 8595 - remark is a Markdown processor powered by plugins part of the unified collective.
   - [markdown-js](https://github.com/evilstreak/markdown-js) ★ 7701 - A Markdown parser for javascript.
   - [texme](https://github.com/susam/texme) ★ 2406 - Self-rendering Markdown + LaTeX documents.
 - Golang
@@ -142,10 +142,10 @@
   - [md](https://github.com/doocs/md) ★ 11009 - WeChat Markdown Editor.
   - [markdown-editor](https://github.com/jbt/markdown-editor) ★ 2865 - Live (Github-flavored) Markdown Editor.
 - Vue
-  - [monaco-editor-vue3](https://github.com/bazingaedward/monaco-editor-vue3) ★ 4195 - Monaco Editor for Vue3.
-  - [monaco-vue](https://github.com/imguolao/monaco-vue) ★ 4195 - Use monaco-editor loaded from CDN in Vue 2&3, no need to bundling.
+  - [monaco-vue](https://github.com/imguolao/monaco-vue) ★ 315 - Use monaco-editor loaded from CDN in Vue 2&3, no need to bundling.
+  - [monaco-editor-vue3](https://github.com/bazingaedward/monaco-editor-vue3) ★ 132 - Monaco Editor for Vue3.
 - react
-  - [monaco-react](https://github.com/suren-atoyan/monaco-react) ★ 4524 - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins.
+  - [monaco-react](https://github.com/suren-atoyan/monaco-react) ★ 4525 - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins.
   - [react-ace](https://github.com/securingsincity/react-ace) ★ 4195 - React Ace Component, Support multiple languages and themes
   - [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) ★ 4102 - Monaco Editor for React.
 - SVG

@@ -25,7 +25,7 @@
 
 - 纯 JavaScript
   - [quill](https://github.com/quilljs/quill) ★ 46454 - Quill 是一种现代的 WYSIWYG 编辑器，旨在实现兼容性和可扩展性。
-  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 33487 - 面向 web 技术人员的无头富文本编辑器框架。
+  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 33488 - 面向 web 技术人员的无头富文本编辑器框架。
   - [Editor.js](https://github.com/codex-team/editor.js) ★ 31150 - 具有干净 JSON 输出的块样式编辑器
   - [lexical](https://github.com/facebook/lexical) ★ 22488 - Lexical 是一个可扩展的文本编辑器框架，提供了出色的可靠性、可访问性和性能。
   - [wangEditor](https://github.com/wangeditor-team/wangEditor) ★ 18189 - 轻量级的 Web 富文本编辑器，易于配置和使用。 支持 IE10+浏览器。
@@ -51,14 +51,14 @@
   - [am-editor](https://github.com/yanmao-cc/am-editor) ★ 977 - 一个富文本实时协同编辑器框架，可以使用 React 和 Vue 自定义插件。
   - [wangEditor-next](https://github.com/cycleccc/wangEditor-next) ★ 0 - wangEditor-next —— 基于 slate.js 的富文本编辑器。
 - vue.js
-  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 33487 - 面向 web 技术人员的无头富文本编辑器框架。
+  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 33488 - 面向 web 技术人员的无头富文本编辑器框架。
   - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) ★ 7418 - Vue 的 Quill 编辑器组件，支持 SPA 和 SSR.
   - [vue2-editor](https://github.com/davidroyer/vue2-editor) ★ 2526 - 使用 Vue2 和 Quill 的文本编辑器。
   - [neditor](https://github.com/notadd/neditor) ★ 1895 - 基于 ueditor 的更现代的 RTF 编辑器，支持 HTTPS。
   - [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) ★ 368 - Vue.js 的 editor.js 包装器组件
   - [iview-editor](https://github.com/iview/iview-editor) ★ 220 - iView Editor 是基于 iView 的 markdown 编辑器，支持上传图片（可集成七牛等服务），支持全屏实时编辑预览。
 - react
-  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 33487 - 面向 web 技术人员的无头富文本编辑器框架。
+  - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 33488 - 面向 web 技术人员的无头富文本编辑器框架。
   - [slate](https://github.com/ianstormtaylor/slate) ★ 31305 - 一个完全可定制的框架，用于构建富文本编辑器。
   - [draft-js](https://github.com/facebook/draft-js) ★ 22879 - 一个用于构建文本编辑器的 React 框架。
   - [plate](https://github.com/udecode/plate) ★ 15456 - 由人工智能驱动的富文本编辑器。
@@ -111,7 +111,7 @@
     - [markdown-it-async](https://github.com/antfu/markdown-it-async) 增强 markdown 功能，支持异步高亮功能。
   - [showdown](https://github.com/showdownjs/showdown) ★ 14763 - 用 JavaScript 编写的双向 MD 到 HTML 到 MD 转换器。
   - [turndown](https://github.com/domchristie/turndown) ★ 10446 - 用 JavaScript 编写的 HTML 至 Markdown 转换器。
-  - [remark](https://github.com/remarkjs/remark) ★ 8594 - remark 是 Markdown 处理器，由统一集合的插件提供支持。
+  - [remark](https://github.com/remarkjs/remark) ★ 8595 - remark 是 Markdown 处理器，由统一集合的插件提供支持。
   - [markdown-js](https://github.com/evilstreak/markdown-js) ★ 7701 - Markdown 的 javascript 解析器。
   - [texme](https://github.com/susam/texme) ★ 2406 - 自我渲染 Markdown + LaTeX 文档。
 - Golang
@@ -142,10 +142,10 @@
   - [md](https://github.com/doocs/md) ★ 11009 - 一款高度简洁的微信 Markdown 编辑器。
   - [markdown-editor](https://github.com/jbt/markdown-editor) ★ 2865 - 实时（Github 风格的）Markdown 编辑器。
 - Vue
-  - [monaco-editor-vue3](https://github.com/bazingaedward/monaco-editor-vue3) ★ 4195 - Vue3 的 Monaco 编辑器。
-  - [monaco-vue](https://github.com/imguolao/monaco-vue) ★ 4195 - 在 Vue 2&3 中使用从 CDN 加载的 monaco-editor，无需打包。
+  - [monaco-vue](https://github.com/imguolao/monaco-vue) ★ 315 - 在 Vue 2&3 中使用从 CDN 加载的 monaco-editor，无需打包。
+  - [monaco-editor-vue3](https://github.com/bazingaedward/monaco-editor-vue3) ★ 132 - Vue3 的 Monaco 编辑器。
 - react
-  - [monaco-react](https://github.com/suren-atoyan/monaco-react) ★ 4524 - 适用于 React 的 Monaco 编辑器 - 在任何 React 应用程序中使用 monaco-editor，无需使用 webpack（或 rollup/parcel 等）配置文件/插件。
+  - [monaco-react](https://github.com/suren-atoyan/monaco-react) ★ 4525 - 适用于 React 的 Monaco 编辑器 - 在任何 React 应用程序中使用 monaco-editor，无需使用 webpack（或 rollup/parcel 等）配置文件/插件。
   - [react-ace](https://github.com/securingsincity/react-ace) ★ 4195 - React Ace 组件，支持多种语言和主题。
   - [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) ★ 4102 - Monaco React 的编辑器。
 - SVG
