@@ -27,7 +27,7 @@
   - [quill](https://github.com/quilljs/quill) ★ 46454 - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
   - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 33488 - The headless rich text editor framework for web artisans.
   - [Editor.js](https://github.com/codex-team/editor.js) ★ 31150 - A block-styled editor with clean JSON output.
-  - [lexical](https://github.com/facebook/lexical) ★ 22488 - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
+  - [lexical](https://github.com/facebook/lexical) ★ 22490 - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
   - [wangEditor](https://github.com/wangeditor-team/wangEditor) ★ 18189 - Lightweight web rich text editor, easy to configure and use. Support IE10 + browser.
   - [medium-editor](https://github.com/yabwe/medium-editor) ★ 16123 - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
   - [tinymce](https://github.com/tinymce/tinymce) ★ 15959 - The world's most popular JavaScript library for rich text editing. Available for React, Vue and Angular.
@@ -106,11 +106,11 @@
 - JavaScript
   - [marked](https://github.com/markedjs/marked) ★ 36050 - A markdown parser and compiler. Built for speed.
   - [markdown-it](https://github.com/markdown-it/markdown-it) ★ 20652 - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed.
-  - [markdown-exit](https://github.com/serkodev/markdown-exit) ★ 1070 - Fast, customizable Markdown parser and renderer with full CommonMark support. TypeScript rewrite of markdown-it with enhancements.
+  - [markdown-exit](https://github.com/serkodev/markdown-exit) ★ 1071 - Fast, customizable Markdown parser and renderer with full CommonMark support. TypeScript rewrite of markdown-it with enhancements.
     - [markdown-it-anchor](https://github.com/valeriangalliat/markdown-it-anchor) A markdown-it plugin that adds an `id` attribute to headings and optionally permalinks.
     - [markdown-it-async](https://github.com/antfu/markdown-it-async) Enhance markdown-it to support async highlight function.
   - [showdown](https://github.com/showdownjs/showdown) ★ 14763 - A bidirectional MD to HTML to MD converter written in Javascript.
-  - [turndown](https://github.com/domchristie/turndown) ★ 10446 - An HTML to Markdown converter written in JavaScript.
+  - [turndown](https://github.com/domchristie/turndown) ★ 10447 - An HTML to Markdown converter written in JavaScript.
   - [remark](https://github.com/remarkjs/remark) ★ 8595 - remark is a Markdown processor powered by plugins part of the unified collective.
   - [markdown-js](https://github.com/evilstreak/markdown-js) ★ 7701 - A Markdown parser for javascript.
   - [texme](https://github.com/susam/texme) ★ 2406 - Self-rendering Markdown + LaTeX documents.
@@ -156,7 +156,7 @@
 - [codesandbox-client](https://github.com/codesandbox/codesandbox-client) ★ 13489 - An online code editor tailored for web application development 🏖️
 - [ace](https://github.com/ajaxorg/ace) ★ 27068 - Ace is a standalone code editor written in JavaScript. Our goal is to create a browser based editor that matches and extends the features, usability and performance of existing native editors such as TextMate, Vim or Eclipse. It can be easily embedded in any web page or JavaScript application. Ace is developed as the primary editor for Cloud9 IDE and the successor of the Mozilla Skywriter (Bespin) Project.
 - [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) ★ 42399 - Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-- [monaco-loader](https://github.com/suren-atoyan/monaco-loader) ★ 42399 - The utility to easy setup monaco-editor into your browser.
+- [monaco-loader](https://github.com/suren-atoyan/monaco-loader) ★ 222 - The utility to easy setup monaco-editor into your browser.
 
 ---
 

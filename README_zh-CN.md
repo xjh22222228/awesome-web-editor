@@ -27,7 +27,7 @@
   - [quill](https://github.com/quilljs/quill) ★ 46454 - Quill 是一种现代的 WYSIWYG 编辑器，旨在实现兼容性和可扩展性。
   - [tiptap](https://github.com/heyscrumpy/tiptap) ★ 33488 - 面向 web 技术人员的无头富文本编辑器框架。
   - [Editor.js](https://github.com/codex-team/editor.js) ★ 31150 - 具有干净 JSON 输出的块样式编辑器
-  - [lexical](https://github.com/facebook/lexical) ★ 22488 - Lexical 是一个可扩展的文本编辑器框架，提供了出色的可靠性、可访问性和性能。
+  - [lexical](https://github.com/facebook/lexical) ★ 22490 - Lexical 是一个可扩展的文本编辑器框架，提供了出色的可靠性、可访问性和性能。
   - [wangEditor](https://github.com/wangeditor-team/wangEditor) ★ 18189 - 轻量级的 Web 富文本编辑器，易于配置和使用。 支持 IE10+浏览器。
   - [medium-editor](https://github.com/yabwe/medium-editor) ★ 16123 - Medium.com 所见即所得的编辑器克隆。 使用 contenteditable API 来实现富文本解决方案。
   - [tinymce](https://github.com/tinymce/tinymce) ★ 15959 - 世界上最受欢迎的 JavaScript 库，用于富文本编辑。 适用于 React，Vue 和 Angular。
@@ -106,11 +106,11 @@
 - JavaScript
   - [marked](https://github.com/markedjs/marked) ★ 36050 - Markdown 解析器和编译器。 专为提高速度而设计。
   - [markdown-it](https://github.com/markdown-it/markdown-it) ★ 20652 - Markdown 解析器， 100％CommonMark 支持，扩展，语法插件和高速。
-  - [markdown-exit](https://github.com/serkodev/markdown-exit) ★ 1070 - 快速、可定制的 Markdown 解析器和渲染器，完全支持 CommonMark。基于 Markdown-it 的 TypeScript 重写版本，并进行了增强。
+  - [markdown-exit](https://github.com/serkodev/markdown-exit) ★ 1071 - 快速、可定制的 Markdown 解析器和渲染器，完全支持 CommonMark。基于 Markdown-it 的 TypeScript 重写版本，并进行了增强。
     - [markdown-it-anchor](https://github.com/valeriangalliat/markdown-it-anchor) 一个 markdown-it 插件，为标题和可选的永久链接添加一个`id`属性。
     - [markdown-it-async](https://github.com/antfu/markdown-it-async) 增强 markdown 功能，支持异步高亮功能。
   - [showdown](https://github.com/showdownjs/showdown) ★ 14763 - 用 JavaScript 编写的双向 MD 到 HTML 到 MD 转换器。
-  - [turndown](https://github.com/domchristie/turndown) ★ 10446 - 用 JavaScript 编写的 HTML 至 Markdown 转换器。
+  - [turndown](https://github.com/domchristie/turndown) ★ 10447 - 用 JavaScript 编写的 HTML 至 Markdown 转换器。
   - [remark](https://github.com/remarkjs/remark) ★ 8595 - remark 是 Markdown 处理器，由统一集合的插件提供支持。
   - [markdown-js](https://github.com/evilstreak/markdown-js) ★ 7701 - Markdown 的 javascript 解析器。
   - [texme](https://github.com/susam/texme) ★ 2406 - 自我渲染 Markdown + LaTeX 文档。
@@ -156,7 +156,7 @@
 - [codesandbox-client](https://github.com/codesandbox/codesandbox-client) ★ 13489 - 专为 Web 应用程序开发量身定制的在线代码编辑器 🏖️
 - [ace](https://github.com/ajaxorg/ace) ★ 27068 - Ace 是用 JavaScript 编写的独立代码编辑器。我们的目标是创建一个基于浏览器的编辑器，以匹配并扩展现有本机编辑器（如 TextMate，Vim 或 Eclipse）的功能，可用性和性能。它可以轻松地嵌入任何网页或 JavaScript 应用程序中。Ace 是 Cloud9 IDE 的主要编辑器，也是 Mozilla Skywriter（Bespin）项目的后继者。
 - [jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) ★ 42399 - 创新的开源可视化应用程序，可将各种数据格式（如 JSON、YAML、XML、CSV 等）转换为交互式图形。
-- [monaco-loader](https://github.com/suren-atoyan/monaco-loader) ★ 42399 - 用于轻松在浏览器中安装 monaco-editor 的实用程序。
+- [monaco-loader](https://github.com/suren-atoyan/monaco-loader) ★ 222 - 用于轻松在浏览器中安装 monaco-editor 的实用程序。
 
 ---
 
