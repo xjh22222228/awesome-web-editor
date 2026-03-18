@@ -88,6 +88,7 @@
   - [EpicEditor](https://github.com/OscarGodson/EpicEditor) ★ 4229 - An Embeddable JavaScript Markdown Editor.
   - [editor](https://github.com/lepture/editor) ★ 2800 - A markdown editor.
   - [stackedit.js](https://github.com/benweet/stackedit.js) ★ 1159 - Add StackEdit to any website.
+  - [md4x](https://github.com/unjs/md4x) ★ 313 - Fast and small markdown parser and renderer.
 - jQuery
   - [editor.md](https://github.com/pandao/editor.md) ★ 14305 - The open source embeddable online markdown editor (component).
 - vue.js
@@ -114,6 +115,7 @@
   - [remark](https://github.com/remarkjs/remark) ★ 8782 - remark is a Markdown processor powered by plugins part of the unified collective.
   - [markdown-js](https://github.com/evilstreak/markdown-js) ★ 7695 - A Markdown parser for javascript.
   - [texme](https://github.com/susam/texme) ★ 2429 - Self-rendering Markdown + LaTeX documents.
+  - [md4x](https://github.com/unjs/md4x) ★ 313 - Fast and small markdown parser and renderer.
 - Golang
   - [blackfriday](https://github.com/russross/blackfriday) ★ 5618 - Blackfriday: a markdown processor for Go.
   - [goldmark](https://github.com/yuin/goldmark) ★ 4652 - A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
@@ -163,6 +165,7 @@
 ## JSON editor
 
 - [jsoneditor](https://github.com/josdejong/jsoneditor) ★ 12204 - A web-based tool to view, edit, format, and validate JSON
+- [json-editor-vue](https://github.com/cloydlau/json-editor-vue) ★ 662 - Vue 2/3 isomorphic JSON editor, viewer, formatter and validator.
 
 ## Design editor
 
