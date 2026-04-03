@@ -203,6 +203,7 @@
 - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) ★ 8813 - The minimal amount of CSS to replicate the GitHub Markdown style.
 - [Markdown Syntax](https://github.com/younghz/Markdown) ★ 3947 - markdown tutorials.
 - [TaleForge](https://www.tale-forge.com/) - Free creative writing platform with book, manga/webtoon, and screenplay editors. Next.js, Prisma, Stripe, PWA.
+- [TaleForge](https://www.tale-forge.com/) - Free creative writing platform with rich text (Tiptap), manga panel editor, and screenplay formatter. Web-based, PWA.
 
 ---
 
