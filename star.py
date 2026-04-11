@@ -1,91 +1,140 @@
 """
-Update star
+Update star counts in markdown files.
 Author: xiejiahe
 @example python3 star.py README_zh-CN.md
 """
-import sys
+from __future__ import annotations
+
+import argparse
 import os
 import re
-from requests import get
-from operator import itemgetter
+from pathlib import Path
+from typing import Dict, List, Optional, Tuple
+
+import requests
 from urllib.parse import urlparse
 
-filename = sys.argv[1] if len(sys.argv) >= 2 else 'README.md'
-file_path = os.path.join(os.getcwd(), filename)
-access_token = os.environ.get('github_access_token')
-headers = {}
-
-if access_token:
-    headers['Authorization'] = 'token ' + access_token
+GITHUB_URL_HOSTS = {"github.com", "www.github.com"}
+LINK_REGEX = re.compile(r'\[.+?\]\(([^)]+)\)', re.IGNORECASE)
+STAR_REGEX = re.compile(r'★\s*([\d,]+)')
+REPO_PATH_REGEX = re.compile(r'^/([^/]+)/([^/]+)(?:/.*)?$')
 
 
-def get_star(repo_name):
-    req_url = 'https://api.github.com/repos' + repo_name
-    resp = get(req_url, headers=headers)
-    print('Fetching {}'.format(req_url))
-
-    try:
-        if resp.status_code == 200:
-            json = resp.json()
-            star = json['stargazers_count']
-            print('Success {} ★ {}\n'.format(req_url, str(star)))
-            return True, star
-        else:
-            raise Exception()
-    except:
-        print('Failed {}\n'.format(req_url))
-        return False, 0
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Update GitHub star counts in a markdown file.")
+    parser.add_argument("path", nargs="?", default="README.md", help="Markdown file to update.")
+    parser.add_argument("--token", "-t", default=os.getenv("GITHUB_ACCESS_TOKEN"), help="GitHub access token.")
+    parser.add_argument("--dry-run", action="store_true", help="Do not write changes to disk.")
+    return parser.parse_args()
 
 
-def read_file():
-    star_regex = re.compile(r'(★\s\d+)')
-    url_regex = re.compile(r'\[.+\]\(([^)]+)\)', re.IGNORECASE)
-    sort_lines = []
+def get_github_repo_path(url: str) -> Optional[str]:
+    parsed = urlparse(url.strip())
+    if parsed.hostname not in GITHUB_URL_HOSTS:
+        return None
+    match = REPO_PATH_REGEX.match(parsed.path)
+    if not match:
+        return None
+    owner, repo = match.groups()
+    return f"/{owner}/{repo.rstrip('/')}"
 
-    with open(file_path, 'rt') as f:
-        lines = f.readlines()
-        for idx, line in enumerate(lines):
-            search = url_regex.search(line)
-            if search:
+
+def get_star_count(session: requests.Session, repo_path: str, token: Optional[str] = None) -> Optional[int]:
+    api_url = f"https://api.github.com/repos{repo_path}"
+    headers = {"Accept": "application/vnd.github.v3+json"}
+    if token:
+        headers["Authorization"] = f"token {token}"
+
+    print(f"Fetching {api_url}")
+    resp = session.get(api_url, headers=headers, timeout=10)
+    if resp.status_code == 200:
+        return resp.json().get("stargazers_count")
+
+    print(f"Failed to fetch {api_url}: {resp.status_code} {resp.reason}")
+    return None
+
+
+def update_star_text(line: str, star_count: int) -> str:
+    if STAR_REGEX.search(line):
+        return STAR_REGEX.sub(f"★ {star_count}", line)
+    return line
+
+
+def sort_secondary_list_lines(lines: List[str]) -> List[str]:
+    sorted_lines: List[str] = []
+    current_group: List[Tuple[int, str]] = []
+
+    for line in lines:
+        if line.startswith("  - "):
+            star = 0
+            match = STAR_REGEX.search(line)
+            if match:
                 try:
-                    result = search.group(1)
-                    url = urlparse(result)
-                    if url.hostname == 'github.com':
-                        ok, star = get_star(url.path)
+                    star = int(match.group(1).replace(",", ""))
+                except ValueError:
+                    star = 0
+            current_group.append((star, line))
+            continue
 
-                        if not ok:
-                            continue
+        if current_group:
+            current_group.sort(key=lambda item: item[0], reverse=True)
+            sorted_lines.extend(item[1] for item in current_group)
+            current_group = []
 
-                        lines[idx] = star_regex.sub('★ ' + str(star), line)
-                except:
-                    pass
+        sorted_lines.append(line)
 
-        # 二级列表根据star降序
+    if current_group:
+        current_group.sort(key=lambda item: item[0], reverse=True)
+        sorted_lines.extend(item[1] for item in current_group)
+
+    return sorted_lines
+
+
+def process_file(path: Path, token: Optional[str], dry_run: bool = False) -> None:
+    text = path.read_text(encoding="utf-8")
+    lines = text.splitlines(keepends=True)
+    updated_lines: List[str] = []
+    star_cache: Dict[str, Optional[int]] = {}
+
+    with requests.Session() as session:
         for line in lines:
-            # 二级
-            if line.startswith('  - '):
-                search_star = star_regex.search(line)
-                star = search_star.groups(0)[0].replace('★ ', '') if search_star else 0
-                if not isinstance(sort_lines[-1], list):
-                    sort_lines.append([])
-                sort_lines[-1].append({
-                    'star': int(star),
-                    'content': line
-                })
-            else:
-                # 排序
-                if sort_lines and isinstance(sort_lines[-1], list):
-                    sort_list = sorted(sort_lines[-1], key=itemgetter('star'), reverse=True)
-                    sort_lines.pop()
-                    for item in sort_list:
-                        sort_lines.append(item['content'])
+            link_match = LINK_REGEX.search(line)
+            if not link_match:
+                updated_lines.append(line)
+                continue
 
-                sort_lines.append(line)
+            github_url = link_match.group(1)
+            repo_path = get_github_repo_path(github_url)
+            if not repo_path:
+                updated_lines.append(line)
+                continue
 
-        with open(file_path, 'wt') as wf:
-            wf.writelines(sort_lines)
-            print('\n\n Finished!')
+            if repo_path not in star_cache:
+                star_cache[repo_path] = get_star_count(session, repo_path, token=token)
+
+            star_count = star_cache[repo_path]
+            if star_count is not None:
+                line = update_star_text(line, star_count)
+
+            updated_lines.append(line)
+
+    sorted_lines = sort_secondary_list_lines(updated_lines)
+
+    if dry_run:
+        print("Dry run complete. No file changes were written.")
+        return
+
+    path.write_text("".join(sorted_lines), encoding="utf-8")
+    print(f"\nFinished updating {path}")
 
 
-if __name__ == '__main__':
-    read_file()
+def main() -> None:
+    args = parse_args()
+    path = Path(args.path)
+    if not path.exists():
+        raise FileNotFoundError(f"Markdown file not found: {path}")
+    process_file(path, token=args.token, dry_run=args.dry_run)
+
+
+if __name__ == "__main__":
+    main()
