@@ -5,32 +5,32 @@ on:
     branches:
       - main
   schedule:
-  - cron: '18 18 * * *'
+    - cron: "18 18 * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: checkout
-      uses: actions/checkout@v2
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.11.0'
-    - name: Install dependencies and Run
-      run: |
-        github_access_token=${{ secrets.TOKEN }}
-        export github_access_token
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-        python star.py
-        python star.py README_zh-CN.md
-    - name: commit
-      run: |
-        git config --global user.email "xjh22222228@gmail.com"
-        git config --global user.name "xjh22222228"
-        git add .
-        git commit -m "CI: update stars"
-    - name: Push
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.TOKEN }}
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.11.0"
+      - name: Install dependencies and Run
+        run: |
+          github_access_token=${{ secrets.TOKEN }}
+          export github_access_token
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python star.py
+          python star.py README_zh-CN.md
+      - name: commit
+        run: |
+          git config --global user.email "liuzi6612@gmail.com"
+          git config --global user.name "liuzi6612"
+          git add .
+          git commit -m "CI: update stars"
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.TOKEN }}

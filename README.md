@@ -177,7 +177,7 @@
   - [react-email-editor](https://github.com/unlayer/react-email-editor) ★ 5106 - Drag-n-Drop Email Editor Component for React.js.
   - [imove](https://github.com/imgcook/imove) ★ 3740 - Move your mouse, generate code from flow chart.
   - [GGEditor](https://github.com/alibaba/GGEditor) ★ 3418 - A visual graph editor based on G6 and React.
-  - [micro-design-editor](https://github.com/xjh22222228/micro-design-editor) - Micro page editing component for react.
+  - [micro-design-editor](https://github.com/liuzi6612/micro-design-editor) - Micro page editing component for react.
 
 ## SVG editor
 

@@ -177,7 +177,7 @@
   - [react-email-editor](https://github.com/unlayer/react-email-editor) ★ 5106 - 用于 React.js 的拖放式电子邮件编辑器组件。
   - [imove](https://github.com/imgcook/imove) ★ 3740 - iMove 是一个逻辑可复用的，面向函数的，流程可视化的 JavaScript 工具库。
   - [GGEditor](https://github.com/alibaba/GGEditor) ★ 3418 - 基于 G6 和 React 的可视化图形编辑器。
-  - [micro-design-editor](https://github.com/xjh22222228/micro-design-editor) - React 用于响应的微页面编辑组件。
+  - [micro-design-editor](https://github.com/liuzi6612/micro-design-editor) - React 用于响应的微页面编辑组件。
 
 ## SVG 编辑器
 
